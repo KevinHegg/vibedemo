@@ -7,6 +7,7 @@ Use this file as the source prompt for the live Codex demo in this repo.
 - Keep the existing fallback test implementation in place unless explicitly asked to remove it.
 - Treat this as the live run, not the fallback run.
 - Use fresh filenames for the live output instead of overwriting `index-test.html`, `data.json`, or `map.js` from the fallback implementation.
+- Name the main live visualization page `influenza.html`.
 - After creating the live output, update the root `index.html` landing page so it links to the new live files.
 - Make the generated page work well on both desktop and mobile.
 - Stay transparent if the `loc.gov` collection endpoint does not honor a requested parameter exactly as written.
@@ -26,22 +27,23 @@ FILTER = front_pages_only=true
 ENDPOINT = https://www.loc.gov/collections/chronicling-america/
 
 Tasks:
-1. Create data.json with:
+1. Create `influenza-data.json` with:
    - term, year_range, map_year, query_params used
    - national: [{year, count}...]
    - by_state: { "AL": count, ... } for MAP_YEAR only
-2. Create index.html that loads D3 (CDN) + TopoJSON (CDN), loads data.json, and renders:
+2. Create `influenza.html` that loads D3 (CDN) + TopoJSON (CDN), loads `influenza-data.json`, and renders:
    - line chart (national counts over time)
    - choropleth map of states for MAP_YEAR with tooltip (state + count)
-3. Create map.js (loaded by index.html) containing ALL visualization logic (chart + map).
+3. Create `influenza-map.js` (loaded by `influenza.html`) containing ALL visualization logic (chart + map).
    Keep it readable; add comments.
-4. Add a tiny local-run instruction in index.html (comment): python -m http.server 8000
-5. Add a scripts/fetch_counts.js (or .py) that generates data.json by calling the loc.gov API.
+4. Add a tiny local-run instruction in `influenza.html` (comment): python -m http.server 8000
+5. Add a `scripts/fetch_influenza_counts.js` (or `.py`) that generates `influenza-data.json` by calling the loc.gov API.
    - For national counts, one request per year using at=pagination.
    - For map counts, one request per state for MAP_YEAR using location_state=<state name> and at=pagination.
    - Parse pagination.of (or pagination.total if needed).
    - Throttle requests (sleep) and retry on HTTP 429/5xx.
 6. Provide a short README section at bottom of README.md describing what you created and how to run it.
+7. Update the root `index.html` landing page so the placeholder influenza link points to the newly created live page.
 
-Expected repo outputs (must exist): index.html, data.json, map.js
+Expected repo outputs (must exist): influenza.html, influenza-data.json, influenza-map.js
 Now implement.
