@@ -64,12 +64,11 @@
 
     h1 {
       margin: 0;
-      max-width: 13ch;
+      max-width: 11.5ch;
       font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
-      font-size: clamp(2.2rem, 4.2vw, 3.55rem);
-      line-height: 0.88;
-      letter-spacing: -0.07em;
-      text-wrap: balance;
+      font-size: clamp(2.15rem, 4vw, 3.3rem);
+      line-height: 0.98;
+      letter-spacing: -0.045em;
     }
 
     p {
@@ -157,16 +156,10 @@
       overflow: hidden;
     }
 
-    #qr-code,
-    #qr-code svg,
-    #qr-code canvas {
+    #qr-code {
       display: block;
       width: 100%;
       height: auto;
-    }
-
-    #qr-code {
-      width: 100%;
     }
 
     .qr-fallback {
@@ -230,7 +223,7 @@
       }
 
       h1 {
-        max-width: 14ch;
+        max-width: 12.5ch;
       }
 
       .qr-frame {
@@ -303,54 +296,20 @@
           follow along on mobile while you run the demo.
         </p>
         <div class="qr-frame">
-          <div id="qr-code" aria-label="QR code linking to the landing page"></div>
+          <img
+            id="qr-code"
+            src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https%3A%2F%2Fkevinhegg.github.io%2Fvibedemo%2F"
+            alt="QR code linking to the landing page"
+            width="220"
+            height="220"
+          >
         </div>
-        <p id="qr-fallback" class="qr-fallback" hidden>
-          If the QR image does not load, use the page URL below on your phone.
-        </p>
+        <p class="qr-fallback">If the QR image does not load, use the page URL below on your phone.</p>
         <p class="qr-url">
           <a href="https://kevinhegg.github.io/vibedemo/">https://kevinhegg.github.io/vibedemo/</a>
         </p>
       </aside>
     </div>
   </main>
-
-  <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
-  <script>
-    const targetUrl = "https://kevinhegg.github.io/vibedemo/";
-    const qrContainer = document.getElementById("qr-code");
-    const qrFallback = document.getElementById("qr-fallback");
-
-    function showQrFallback() {
-      if (qrFallback) {
-        qrFallback.hidden = false;
-      }
-    }
-
-    if (window.QRCode && qrContainer) {
-      QRCode.toString(
-        targetUrl,
-        {
-          type: "svg",
-          width: 220,
-          margin: 1,
-          color: {
-            dark: "#203038",
-            light: "#ffffff"
-          }
-        },
-        (error, string) => {
-          if (error || !string) {
-            showQrFallback();
-            return;
-          }
-
-          qrContainer.innerHTML = string;
-        }
-      );
-    } else {
-      showQrFallback();
-    }
-  </script>
 </body>
 </html>
