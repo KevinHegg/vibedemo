@@ -9,6 +9,7 @@ Library of Congress Chronicling America counts into two linked views:
 - `map.js` contains the D3 + TopoJSON visualization logic.
 - `data.json` stores the generated counts for the `influenza` query.
 - `scripts/fetch_counts.py` regenerates `data.json` from the public `loc.gov` API.
+- `prompt.md` stores the classroom-ready live prompt with reminders for the real run.
 
 Run it locally with `python3 -m http.server 8000` from the repo root, then open
 `http://localhost:8000/index-test.html`.
