@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Influenza Live Demo | Chronicling America</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f5efe3;
+      --paper: rgba(255, 252, 246, 0.93);
+      --panel: rgba(255, 249, 240, 0.94);
+      --ink: #1d2b2f;
+      --muted: #57656a;
+      --accent: #9f3d2e;
+      --accent-soft: #d49b6a;
+      --stroke: rgba(29, 43, 47, 0.14);
+      --shadow: 0 22px 60px rgba(29, 43, 47, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(159, 61, 46, 0.18), transparent 28%),
+        radial-gradient(circle at bottom right, rgba(76, 118, 131, 0.18), transparent 32%),
+        linear-gradient(135deg, #efe5d2 0%, var(--bg) 100%);
+    }
+
+    .page {
+      width: min(1200px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 56px;
+    }
+
+    .hero, .card {
+      border: 1px solid var(--stroke);
+      border-radius: 28px;
+      background: var(--paper);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+    }
+
+    .hero { padding: clamp(28px, 5vw, 52px); }
+
+    .eyebrow {
+      margin: 0 0 14px;
+      font-family: Arial, sans-serif;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 10.5ch;
+      font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+      font-size: clamp(2.7rem, 6.4vw, 5rem);
+      line-height: 0.98;
+      letter-spacing: -0.04em;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 1.45rem;
+      letter-spacing: -0.02em;
+    }
+
+    p, li {
+      color: var(--muted);
+      line-height: 1.68;
+    }
+
+    .lede, .meta, .card p { margin: 18px 0 0; font-size: 1.05rem; }
+
+    .status {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 24px;
+    }
+
+    .pill {
+      padding: 10px 14px;
+      border: 1px dashed rgba(29, 43, 47, 0.18);
+      border-radius: 999px;
+      background: rgba(212, 155, 106, 0.12);
+      font-family: Arial, sans-serif;
+      font-size: 0.9rem;
+      color: var(--ink);
+    }
+
+    .grid { display: grid; gap: 22px; margin-top: 22px; }
+    .chart-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .detail-grid { grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr); }
+
+    .card {
+      padding: 24px;
+      background: var(--panel);
+    }
+
+    .subhead { margin-top: 10px; font-size: 0.98rem; }
+    .viz { position: relative; min-height: 420px; margin-top: 18px; }
+    .viz svg { display: block; width: 100%; height: auto; }
+
+    .axis text, .legend-axis text {
+      fill: var(--muted);
+      font-family: Arial, sans-serif;
+      font-size: 12px;
+    }
+
+    .axis path, .axis line, .legend-axis line {
+      stroke: rgba(29, 43, 47, 0.22);
+    }
+
+    .series-line {
+      fill: none;
+      stroke: var(--accent);
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .series-dot {
+      fill: #f9f2e6;
+      stroke: var(--accent);
+      stroke-width: 2;
+    }
+
+    .state {
+      stroke: rgba(255, 252, 246, 0.82);
+      stroke-width: 0.8;
+      transition: opacity 120ms ease-out;
+    }
+
+    .state:hover { opacity: 0.86; }
+
+    .state-borders {
+      fill: none;
+      stroke: rgba(255, 255, 255, 0.72);
+      stroke-linejoin: round;
+      pointer-events: none;
+    }
+
+    .tooltip {
+      position: absolute;
+      z-index: 5;
+      max-width: 220px;
+      padding: 10px 12px;
+      border: 1px solid rgba(29, 43, 47, 0.12);
+      border-radius: 14px;
+      background: rgba(29, 43, 47, 0.92);
+      color: #fff7ef;
+      font-family: Arial, sans-serif;
+      font-size: 0.88rem;
+      line-height: 1.45;
+      pointer-events: none;
+      opacity: 0;
+      transform: translateY(6px);
+      transition: opacity 120ms ease-out, transform 120ms ease-out;
+    }
+
+    .tooltip.is-visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .callout {
+      margin-top: 22px;
+      padding: 18px;
+      border: 1px solid rgba(159, 61, 46, 0.16);
+      border-radius: 20px;
+      background: rgba(159, 61, 46, 0.06);
+    }
+
+    code {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 0.92em;
+    }
+
+    .list {
+      margin: 16px 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .list li {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 10px 0;
+      border-top: 1px solid rgba(29, 43, 47, 0.1);
+      font-family: Arial, sans-serif;
+      font-size: 0.95rem;
+    }
+
+    .list li:first-child { border-top: 0; padding-top: 0; }
+    .list strong { color: var(--ink); }
+
+    a {
+      color: inherit;
+      text-decoration-color: var(--accent-soft);
+      text-decoration-thickness: 0.12em;
+      text-underline-offset: 0.18em;
+    }
+
+    .footer-link {
+      display: inline-flex;
+      margin-top: 14px;
+      font-family: Arial, sans-serif;
+      font-size: 0.92rem;
+    }
+
+    @media (max-width: 920px) {
+      .chart-grid, .detail-grid { grid-template-columns: 1fr; }
+      .page {
+        width: min(100% - 20px, 1200px);
+        padding-top: 20px;
+        padding-bottom: 28px;
+      }
+      .hero, .card { border-radius: 22px; }
+      .viz { min-height: 360px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <section class="hero">
+      <p class="eyebrow">Live Classroom Build</p>
+      <h1>Influenza across the American newspaper record.</h1>
+      <p class="lede">
+        This live page visualizes Chronicling America counts for the search term
+        <strong>"influenza"</strong> from 1910 through 1925, pairing a national time
+        series with a state-by-state snapshot for 1918.
+      </p>
+      <p class="meta">
+        It uses only public Library of Congress data. The page is also explicit about
+        how the live collection endpoint actually behaved when we tested the requested
+        filters on April 1, 2026.
+      </p>
+      <div id="summary-pills" class="status"></div>
+      <div class="callout">
+        <strong>Effective query behavior</strong>
+        <p id="effective-note" class="meta"></p>
+      </div>
+    </section>
+
+    <section class="grid chart-grid">
+      <article class="card">
+        <h2>National Time Series</h2>
+        <p class="subhead">
+          Yearly hit counts pulled from the collection endpoint using
+          <code>at=pagination</code> to read the total result count.
+        </p>
+        <div id="line-chart" class="viz"></div>
+      </article>
+
+      <article class="card">
+        <h2>1918 State Snapshot</h2>
+        <p class="subhead">
+          Choropleth counts by state for the same search term in the selected outbreak year.
+          The state totals use the verified <code>fa=location:&lt;state name&gt;</code> facet filter.
+        </p>
+        <div id="choropleth-map" class="viz"></div>
+      </article>
+    </section>
+
+    <section class="grid detail-grid">
+      <article class="card">
+        <h2>Transparent Query Notes</h2>
+        <p class="subhead">
+          The requested parameters are preserved in the dataset metadata, but the notes
+          below describe the live behavior we verified before generating the final file.
+        </p>
+        <ul id="query-notes" class="list"></ul>
+        <a class="footer-link" href="./influenza-data.json">Open influenza-data.json</a>
+      </article>
+
+      <article class="card">
+        <h2>Top States in 1918</h2>
+        <p class="subhead">
+          Quick ranking for the map year, using the same verified state facet counts as the choropleth.
+        </p>
+        <ul id="top-states" class="list"></ul>
+        <a class="footer-link" href="./index.html">Back to landing page</a>
+      </article>
+    </section>
+  </div>
+
+  <!-- Local run: python -m http.server 8000 -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script src="./influenza-map.js" defer></script>
+</body>
+</html>
+
