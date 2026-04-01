@@ -1,0 +1,364 @@
+{
+  "topics": [
+    {
+      "topic_id": 0,
+      "label": "school, high, japanese",
+      "keywords": [
+        "school",
+        "high",
+        "japanese",
+        "class",
+        "students",
+        "grade",
+        "kids",
+        "friends"
+      ],
+      "archive_topics": [],
+      "prevalence": 37,
+      "share": 0.1091,
+      "avg_sentiment": 0.83,
+      "representatives": [
+        {
+          "interview_id": "ddr-densho-1013-2",
+          "segment_id": "ddr-densho-1013-2-4-transcript-79816dbc08",
+          "interviewee": "Nelson Takeo Akagi",
+          "year": 2008,
+          "location": "Salt Lake City, Utah",
+          "word_count": 158,
+          "sentiment": 0.938,
+          "excerpt": "So when you say \"segregated school,\" you mean so the Japanese American students could not go into the town school? Or was it just more convenient? I'm trying to understand, was it, was it legally segregated, or was it just more by convenience segregated?"
+        },
+        {
+          "interview_id": "ddr-densho-1000-221",
+          "segment_id": "ddr-densho-1000-221-3-transcript-5eb4c56485",
+          "interviewee": "Yae Aihara",
+          "year": 2008,
+          "location": "Denver, Colorado",
+          "word_count": 233,
+          "sentiment": 0.997,
+          "excerpt": "It was an immigrant neighborhood. And I went to school with all Chinese, Jewish kids, black kids. It was really international, and especially my grammar school."
+        },
+        {
+          "interview_id": "ddr-one-7-48",
+          "segment_id": "ddr-one-7-48-5-transcript-992ea87c06",
+          "interviewee": "Sab Akiyama",
+          "year": 2013,
+          "location": "Hood River, Oregon",
+          "word_count": 253,
+          "sentiment": 0.999,
+          "excerpt": "Yeah. Of course, living in the stretch between the school and the home, two miles, I said I think there were one, two, three, four, five, about five families and just one was a Caucasian family."
+        },
+        {
+          "interview_id": "ddr-densho-1000-208",
+          "segment_id": "ddr-densho-1000-208-22-transcript-20c9e1e5b4",
+          "interviewee": "Sharon Tanagi Aburano",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 99,
+          "sentiment": 0.977,
+          "excerpt": "Which brings up kind of a good segue, because when you were growing up, after school, a lot of Japanese American students had to attend Japanese school."
+        }
+      ]
+    },
+    {
+      "topic_id": 1,
+      "label": "father, japan, mother",
+      "keywords": [
+        "father",
+        "japan",
+        "mother",
+        "family",
+        "came",
+        "born",
+        "farm",
+        "united"
+      ],
+      "archive_topics": [],
+      "prevalence": 71,
+      "share": 0.2094,
+      "avg_sentiment": 0.804,
+      "representatives": [
+        {
+          "interview_id": "ddr-densho-1000-232",
+          "segment_id": "ddr-densho-1000-232-2-transcript-0274ff03fe",
+          "interviewee": "Kay Aiko Abe",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 214,
+          "sentiment": 0.979,
+          "excerpt": "Oh, it was a real small Japanese camp. It was built by the sawmill company for the Japanese to live in a community. And so it was a very close-knit community. To this day, those friends are lifetime friends. And according to history, I think, at one time there were about, I don't"
+        },
+        {
+          "interview_id": "ddr-densho-1000-228",
+          "segment_id": "ddr-densho-1000-228-1-transcript-f650ea5ec0",
+          "interviewee": "Sumie Suguro Akizuki",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 484,
+          "sentiment": 0.997,
+          "excerpt": "No, in the home, at the home. And I think my father delivered me. [Laughs]"
+        },
+        {
+          "interview_id": "ddr-densho-1000-164",
+          "segment_id": "ddr-densho-1000-164-4-transcript-3fcde97cb8",
+          "interviewee": "Tom Akashi",
+          "year": 2004,
+          "location": "Klamath Falls, Oregon",
+          "word_count": 195,
+          "sentiment": 0.991,
+          "excerpt": "Now, so now that your father was a college graduate, at some point he met your, your mother."
+        },
+        {
+          "interview_id": "ddr-densho-1000-206",
+          "segment_id": "ddr-densho-1000-206-1-transcript-f163a7f688",
+          "interviewee": "Art Abe",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 221,
+          "sentiment": 0.996,
+          "excerpt": "That must have been interesting. We'll talk more about that. Let's go to your father. What was, what was your father's name?"
+        }
+      ]
+    },
+    {
+      "topic_id": 2,
+      "label": "japanese, war, niseis",
+      "keywords": [
+        "japanese",
+        "war",
+        "niseis",
+        "american",
+        "mean",
+        "say",
+        "information",
+        "way"
+      ],
+      "archive_topics": [],
+      "prevalence": 70,
+      "share": 0.2065,
+      "avg_sentiment": 0.636,
+      "representatives": [
+        {
+          "interview_id": "ddr-densho-1004-13",
+          "segment_id": "ddr-densho-1004-13-transcript-a3679e7cf1",
+          "interviewee": "Kenjiro Akune",
+          "year": 2000,
+          "location": "Los Angeles, California",
+          "word_count": 2424,
+          "sentiment": -0.966,
+          "excerpt": "Yeah. Well, we didn't really know what it was. I know that one person that was very much affected was one of our members. His wife was an actress in Japan and she married this journalist from the U.S. who was also a hapa , and she returned to Japan on the Gripsholm when the excha"
+        },
+        {
+          "interview_id": "ddr-densho-1004-12",
+          "segment_id": "ddr-densho-1004-12-transcript-0c35fc6ca4",
+          "interviewee": "Harry Akune",
+          "year": 2000,
+          "location": "Los Angeles, California",
+          "word_count": 1583,
+          "sentiment": 1.0,
+          "excerpt": "This Japanese soldier was brought in, and I was told that he stuck his head out of the cave, pointed at his forehead and says, \"Shoot me,\" to the American soldier. I guess he was just too weak to fight, so he wanted to be shot. So, the soldier naturally brought him in. He was in"
+        },
+        {
+          "interview_id": "ddr-densho-1004-14",
+          "segment_id": "ddr-densho-1004-14-transcript-616675575e",
+          "interviewee": "Harry Akune",
+          "year": 2000,
+          "location": "Los Angeles, California",
+          "word_count": 2055,
+          "sentiment": 1.0,
+          "excerpt": "Well, we were in Amache, Colorado, and we had just come back from outside. We came back and we had heard about a recruiter coming in to see if they could get some Niseis to volunteer for the language school. And we had a little discussion among our friends, and we decided to -- I"
+        },
+        {
+          "interview_id": "ddr-densho-1004-13",
+          "segment_id": "ddr-densho-1004-13-5-transcript-71dcb3ca00",
+          "interviewee": "Kenjiro Akune",
+          "year": 2000,
+          "location": "Los Angeles, California",
+          "word_count": 612,
+          "sentiment": 0.975,
+          "excerpt": "Yeah. Well, you know, when you get praises like that, you know, you're not going to knock it. [Laughs] Because the 442 had a tremendous reputation and when you're in school and if anybody showed any inkling of being prejudiced to the Nisei , these people stood up and say, \"Hey, t"
+        }
+      ]
+    },
+    {
+      "topic_id": 3,
+      "label": "store, money, seattle",
+      "keywords": [
+        "store",
+        "money",
+        "seattle",
+        "chinese",
+        "course",
+        "things",
+        "came",
+        "actually"
+      ],
+      "archive_topics": [],
+      "prevalence": 86,
+      "share": 0.2537,
+      "avg_sentiment": 0.877,
+      "representatives": [
+        {
+          "interview_id": "ddr-densho-1000-209",
+          "segment_id": "ddr-densho-1000-209-transcript-e696675e42",
+          "interviewee": "Sharon Tanagi Aburano",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 9249,
+          "sentiment": 1.0,
+          "excerpt": "Today is Thursday, April 3rd, and so this is, we're starting now the third hour of the interview, Sharon. And the first two hours, we spent time talking about your family prewar Seattle, which was just fascinating. And where we left it was right at the moment when you had packed"
+        },
+        {
+          "interview_id": "ddr-densho-1000-208",
+          "segment_id": "ddr-densho-1000-208-transcript-2dfcee8d62",
+          "interviewee": "Sharon Tanagi Aburano",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 7284,
+          "sentiment": 1.0,
+          "excerpt": "I was born (in Seattle, Washington), October the 31st (...). My folks were married on April Fool's Day, so I came on (another holiday), Halloween -- [laughs] -- the year after. (...) I think it was a midwife (delivery), from what I've seen, because I looked at the birth certifica"
+        },
+        {
+          "interview_id": "ddr-densho-1000-206",
+          "segment_id": "ddr-densho-1000-206-transcript-ca077fc2db",
+          "interviewee": "Art Abe",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 6361,
+          "sentiment": 1.0,
+          "excerpt": "I was born in Seattle, Washington, 1921."
+        },
+        {
+          "interview_id": "ddr-densho-1000-209",
+          "segment_id": "ddr-densho-1000-209-22-transcript-95dfe171e3",
+          "interviewee": "Sharon Tanagi Aburano",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 494,
+          "sentiment": 0.97,
+          "excerpt": "-- and they wanted you to help them resettle into Seattle. Can you talk about that at this point?"
+        }
+      ]
+    },
+    {
+      "topic_id": 4,
+      "label": "camp, block, tule",
+      "keywords": [
+        "camp",
+        "block",
+        "tule",
+        "lake",
+        "amache",
+        "recall",
+        "santa",
+        "manzanar"
+      ],
+      "archive_topics": [],
+      "prevalence": 45,
+      "share": 0.1327,
+      "avg_sentiment": 0.722,
+      "representatives": [
+        {
+          "interview_id": "ddr-manz-1-112",
+          "segment_id": "ddr-manz-1-112-transcript-3d83b07024",
+          "interviewee": "Toshiko Aiboshi",
+          "year": 2011,
+          "location": "Culver City, California",
+          "word_count": 4813,
+          "sentiment": 1.0,
+          "excerpt": "Okay. My father -- I learned that I was born in Boyle Heights by looking at my birth certificate -- my father, Torataro Sakamoto, and my mother, Oshima Sakamoto, apparently were cousins in Japan, in Wakayama- ken . And I don't know when they got married or really when they came t"
+        },
+        {
+          "interview_id": "ddr-manz-1-112",
+          "segment_id": "ddr-manz-1-112-12-transcript-c0af66194e",
+          "interviewee": "Toshiko Aiboshi",
+          "year": 2011,
+          "location": "Culver City, California",
+          "word_count": 362,
+          "sentiment": 0.993,
+          "excerpt": "Speaking of crafts, did you have any time to kind of creatively express yourself in camp?"
+        },
+        {
+          "interview_id": "ddr-manz-1-112",
+          "segment_id": "ddr-manz-1-112-14-transcript-80797cf25c",
+          "interviewee": "Toshiko Aiboshi",
+          "year": 2011,
+          "location": "Culver City, California",
+          "word_count": 248,
+          "sentiment": 0.996,
+          "excerpt": "I think we went to the service and I don't recall whether it was conducted in English or in Japanese, but I'm sure that we had services, and I don't recall going to the big Christian thing. And being Buddhist was not within my experience whatsoever, nor being a Catholic. In fact,"
+        },
+        {
+          "interview_id": "ddr-densho-1000-228",
+          "segment_id": "ddr-densho-1000-228-6-transcript-944e07f41c",
+          "interviewee": "Sumie Suguro Akizuki",
+          "year": 2008,
+          "location": "Seattle, Washington",
+          "word_count": 230,
+          "sentiment": 0.985,
+          "excerpt": "So about a year after you arrived in Tule Lake, it became a segregation camp. And I'm wondering if you felt any change in the group dynamic, or how people interacted?"
+        }
+      ]
+    },
+    {
+      "topic_id": 5,
+      "label": "church, spokane, japanese",
+      "keywords": [
+        "church",
+        "spokane",
+        "japanese",
+        "buddhist",
+        "methodist",
+        "2006",
+        "community",
+        "started"
+      ],
+      "archive_topics": [],
+      "prevalence": 30,
+      "share": 0.0885,
+      "avg_sentiment": 0.826,
+      "representatives": [
+        {
+          "interview_id": "ddr-densho-1000-188",
+          "segment_id": "ddr-densho-1000-188-transcript-fc6ea34aa3",
+          "interviewee": "Mas Akiyama",
+          "year": 2006,
+          "location": "Spokane, Washington",
+          "word_count": 3706,
+          "sentiment": 1.0,
+          "excerpt": "So today is Wednesday, March 15, 2006, and I'm in Spokane interviewing Mas Akiyama, and on the camera we have Dana Hoshide. Right now we're in the basement of the Northwest Museum of Arts & Culture in Spokane. So I'm going to start, Mas, and just ask you where and when were you b"
+        },
+        {
+          "interview_id": "ddr-densho-1000-188",
+          "segment_id": "ddr-densho-1000-188-6-transcript-a29dd415fd",
+          "interviewee": "Mas Akiyama",
+          "year": 2006,
+          "location": "Spokane, Washington",
+          "word_count": 146,
+          "sentiment": 0.99,
+          "excerpt": "So I want to go back to talk about the church, the Methodist church. When I go to different cities, usually Japanese communities have a strong Buddhist church and then maybe a strong Christian church. But it seems that in Spokane, it was more a strong Methodist church and not so"
+        },
+        {
+          "interview_id": "ddr-densho-1000-188",
+          "segment_id": "ddr-densho-1000-188-16-transcript-df0db368a2",
+          "interviewee": "Mas Akiyama",
+          "year": 2006,
+          "location": "Spokane, Washington",
+          "word_count": 169,
+          "sentiment": 0.991,
+          "excerpt": "Okay, so Mas, we're now, we just took a break, and now we're in our second hour of the interview. We had just talked about, oh, visiting, you visited all these camps. But now let's go back to Spokane because I wanted to ask you about, during the war and after the war, lots of Jap"
+        },
+        {
+          "interview_id": "ddr-densho-1000-188",
+          "segment_id": "ddr-densho-1000-188-22-transcript-fabc192f60",
+          "interviewee": "Mas Akiyama",
+          "year": 2006,
+          "location": "Spokane, Washington",
+          "word_count": 235,
+          "sentiment": 0.993,
+          "excerpt": "So when you did Scouts, was it with a Japanese American troop, or was it a more Caucasian troop?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+interview_id,segment_id,interviewee,title,year,location,generation,word_count,sentiment,dominant_topic,topic_weight
+ddr-densho-1000-164,ddr-densho-1000-164-43-transcript-0048ae3415,Tom Akashi,Tom Akashi Interview Segment 43 Transcript,2004,"Klamath Falls, Oregon",Issei,177,0.979,1,0.0967
+ddr-densho-1000-164,ddr-densho-1000-164-49-transcript-054253988c,Tom Akashi,Tom Akashi Interview Segment 49 Transcript,2004,"Klamath Falls, Oregon",Issei,206,0.996,1,0.1317
+ddr-densho-1000-164,ddr-densho-1000-164-34-transcript-09f3775b7c,Tom Akashi,Tom Akashi Interview Segment 34 Transcript,2004,"Klamath Falls, Oregon",Issei,208,-0.396,2,0.1163
+ddr-densho-1000-164,ddr-densho-1000-164-13-transcript-0bd2d5268b,Tom Akashi,Tom Akashi Interview Segment 13 Transcript,2004,"Klamath Falls, Oregon",Issei,201,0.998,1,0.1162
+ddr-densho-1000-164,ddr-densho-1000-164-14-transcript-0d7b03bd51,Tom Akashi,Tom Akashi Interview Segment 14 Transcript,2004,"Klamath Falls, Oregon",Issei,149,0.993,2,0.0656
+ddr-densho-1000-164,ddr-densho-1000-164-36-transcript-0db59c9657,Tom Akashi,Tom Akashi Interview Segment 36 Transcript,2004,"Klamath Falls, Oregon",Issei,277,0.962,1,0.1438
+ddr-densho-1000-164,ddr-densho-1000-164-11-transcript-119dad27f6,Tom Akashi,Tom Akashi Interview Segment 11 Transcript,2004,"Klamath Falls, Oregon",Issei,389,1.0,2,0.1668
+ddr-densho-1000-164,ddr-densho-1000-164-33-transcript-1a874145bb,Tom Akashi,Tom Akashi Interview Segment 33 Transcript,2004,"Klamath Falls, Oregon",Issei,277,0.991,2,0.0681
+ddr-densho-1000-164,ddr-densho-1000-164-1-transcript-1e8de7b52f,Tom Akashi,Tom Akashi Interview Segment 1 Transcript,2004,"Klamath Falls, Oregon",Issei,274,0.999,1,0.1922
+ddr-densho-1000-164,ddr-densho-1000-164-35-transcript-247106609a,Tom Akashi,Tom Akashi Interview Segment 35 Transcript,2004,"Klamath Falls, Oregon",Issei,279,0.962,2,0.0775
+ddr-densho-1000-164,ddr-densho-1000-164-37-transcript-250f4d040a,Tom Akashi,Tom Akashi Interview Segment 37 Transcript,2004,"Klamath Falls, Oregon",Issei,261,-0.682,4,0.1359
+ddr-densho-1000-164,ddr-densho-1000-164-15-transcript-2662dc748e,Tom Akashi,Tom Akashi Interview Segment 15 Transcript,2004,"Klamath Falls, Oregon",Issei,246,0.988,2,0.143
+ddr-densho-1000-164,ddr-densho-1000-164-48-transcript-29fee4062f,Tom Akashi,Tom Akashi Interview Segment 48 Transcript,2004,"Klamath Falls, Oregon",Issei,229,0.998,1,0.2746
+ddr-densho-1000-164,ddr-densho-1000-164-9-transcript-2c1d0dfe0e,Tom Akashi,Tom Akashi Interview Segment 9 Transcript,2004,"Klamath Falls, Oregon",Issei,275,0.999,5,0.1499
+ddr-densho-1000-164,ddr-densho-1000-164-55-transcript-2c4a30415d,Tom Akashi,Tom Akashi Interview Segment 55 Transcript,2004,"Klamath Falls, Oregon",Issei,121,0.984,2,0.1737
+ddr-densho-1000-164,ddr-densho-1000-164-7-transcript-30b2b8ad2e,Tom Akashi,Tom Akashi Interview Segment 7 Transcript,2004,"Klamath Falls, Oregon",Issei,105,0.93,1,0.1049
+ddr-densho-1000-164,ddr-densho-1000-164-25-transcript-3152a8f592,Tom Akashi,Tom Akashi Interview Segment 25 Transcript,2004,"Klamath Falls, Oregon",Issei,165,0.998,2,0.0997
+ddr-densho-1000-164,ddr-densho-1000-164-22-transcript-3190d5f33e,Tom Akashi,Tom Akashi Interview Segment 22 Transcript,2004,"Klamath Falls, Oregon",Issei,308,0.953,2,0.1861
+ddr-densho-1000-164,ddr-densho-1000-164-12-transcript-32287e3f76,Tom Akashi,Tom Akashi Interview Segment 12 Transcript,2004,"Klamath Falls, Oregon",Issei,176,0.958,0,0.1714
+ddr-densho-1000-164,ddr-densho-1000-164-17-transcript-3855c991f0,Tom Akashi,Tom Akashi Interview Segment 17 Transcript,2004,"Klamath Falls, Oregon",Issei,226,0.998,4,0.1342
+ddr-densho-1000-164,ddr-densho-1000-164-18-transcript-3d06a84d56,Tom Akashi,Tom Akashi Interview Segment 18 Transcript,2004,"Klamath Falls, Oregon",Issei,101,0.988,4,0.0762
+ddr-densho-1000-164,ddr-densho-1000-164-5-transcript-3f0d829827,Tom Akashi,Tom Akashi Interview Segment 5 Transcript,2004,"Klamath Falls, Oregon",Issei,137,0.989,1,0.0846
+ddr-densho-1000-164,ddr-densho-1000-164-4-transcript-3fcde97cb8,Tom Akashi,Tom Akashi Interview Segment 4 Transcript,2004,"Klamath Falls, Oregon",Issei,195,0.991,1,0.3428
+ddr-densho-1000-164,ddr-densho-1000-164-10-transcript-41abbe10a2,Tom Akashi,Tom Akashi Interview Segment 10 Transcript,2004,"Klamath Falls, Oregon",Issei,170,0.9,2,0.1736
+ddr-densho-1000-164,ddr-densho-1000-164-23-transcript-4443d568e8,Tom Akashi,Tom Akashi Interview Segment 23 Transcript,2004,"Klamath Falls, Oregon",Issei,162,0.993,1,0.1656
+ddr-densho-1000-164,ddr-densho-1000-164-41-transcript-514d1f5f77,Tom Akashi,Tom Akashi Interview Segment 41 Transcript,2004,"Klamath Falls, Oregon",Issei,122,0.918,2,0.1399
+ddr-densho-1000-164,ddr-densho-1000-164-3-transcript-517b0a9185,Tom Akashi,Tom Akashi Interview Segment 3 Transcript,2004,"Klamath Falls, Oregon",Issei,167,0.993,0,0.1801
+ddr-densho-1000-164,ddr-densho-1000-164-51-transcript-549bfce80d,Tom Akashi,Tom Akashi Interview Segment 51 Transcript,2004,"Klamath Falls, Oregon",Issei,190,0.985,4,0.1287
+ddr-densho-1000-164,ddr-densho-1000-164-19-transcript-5eddb64d57,Tom Akashi,Tom Akashi Interview Segment 19 Transcript,2004,"Klamath Falls, Oregon",Issei,268,0.999,0,0.1267
+ddr-densho-1000-164,ddr-densho-1000-164-32-transcript-621ec6e708,Tom Akashi,Tom Akashi Interview Segment 32 Transcript,2004,"Klamath Falls, Oregon",Issei,136,-0.982,1,0.0998
+ddr-densho-1000-164,ddr-densho-1000-164-30-transcript-69632639ba,Tom Akashi,Tom Akashi Interview Segment 30 Transcript,2004,"Klamath Falls, Oregon",Issei,289,0.998,4,0.0897
+ddr-densho-1000-164,ddr-densho-1000-164-21-transcript-6a31c5f943,Tom Akashi,Tom Akashi Interview Segment 21 Transcript,2004,"Klamath Falls, Oregon",Issei,253,0.867,4,0.1564
+ddr-densho-1000-164,ddr-densho-1000-164-45-transcript-6c70e52569,Tom Akashi,Tom Akashi Interview Segment 45 Transcript,2004,"Klamath Falls, Oregon",Issei,180,0.993,1,0.1994
+ddr-densho-1000-164,ddr-densho-1000-164-42-transcript-6e69953ce3,Tom Akashi,Tom Akashi Interview Segment 42 Transcript,2004,"Klamath Falls, Oregon",Issei,262,0.985,2,0.1229
+ddr-densho-1000-164,ddr-densho-1000-164-40-transcript-70deabea15,Tom Akashi,Tom Akashi Interview Segment 40 Transcript,2004,"Klamath Falls, Oregon",Issei,284,0.979,1,0.2414
+ddr-densho-1000-164,ddr-densho-1000-164-27-transcript-75bce92aee,Tom Akashi,Tom Akashi Interview Segment 27 Transcript,2004,"Klamath Falls, Oregon",Issei,376,0.996,4,0.173
+ddr-densho-1000-164,ddr-densho-1000-164-16-transcript-7fa83044e4,Tom Akashi,Tom Akashi Interview Segment 16 Transcript,2004,"Klamath Falls, Oregon",Issei,237,0.993,2,0.1301
+ddr-densho-1000-164,ddr-densho-1000-164-47-transcript-85439a8a99,Tom Akashi,Tom Akashi Interview Segment 47 Transcript,2004,"Klamath Falls, Oregon",Issei,348,0.998,1,0.1622
+ddr-densho-1000-164,ddr-densho-1000-164-52-transcript-85a41baa75,Tom Akashi,Tom Akashi Interview Segment 52 Transcript,2004,"Klamath Falls, Oregon",Issei,320,-0.984,4,0.1593
+ddr-densho-1000-164,ddr-densho-1000-164-50-transcript-a017b54239,Tom Akashi,Tom Akashi Interview Segment 50 Transcript,2004,"Klamath Falls, Oregon",Issei,329,0.996,2,0.1376
+ddr-densho-1000-164,ddr-densho-1000-164-54-transcript-a55066e29c,Tom Akashi,Tom Akashi Interview Segment 54 Transcript,2004,"Klamath Falls, Oregon",Issei,165,0.901,4,0.126
+ddr-densho-1000-164,ddr-densho-1000-164-6-transcript-ac8bcb060a,Tom Akashi,Tom Akashi Interview Segment 6 Transcript,2004,"Klamath Falls, Oregon",Issei,238,0.998,2,0.0904
+ddr-densho-1000-164,ddr-densho-1000-164-38-transcript-bb8f2d71ed,Tom Akashi,Tom Akashi Interview Segment 38 Transcript,2004,"Klamath Falls, Oregon",Issei,303,0.993,1,0.309
+ddr-densho-1000-164,ddr-densho-1000-164-26-transcript-bbab13e70b,Tom Akashi,Tom Akashi Interview Segment 26 Transcript,2004,"Klamath Falls, Oregon",Issei,99,0.979,4,0.203
+ddr-densho-1000-164,ddr-densho-1000-164-28-transcript-bf0fd519aa,Tom Akashi,Tom Akashi Interview Segment 28 Transcript,2004,"Klamath Falls, Oregon",Issei,302,0.972,4,0.1514
+ddr-densho-1000-164,ddr-densho-1000-164-31-transcript-c09cba75ca,Tom Akashi,Tom Akashi Interview Segment 31 Transcript,2004,"Klamath Falls, Oregon",Issei,221,0.999,1,0.0901
+ddr-densho-1000-164,ddr-densho-1000-164-transcript-d12438ff26,Tom Akashi,Tom Akashi Interview Transcript,2004,"Klamath Falls, Oregon",Issei,12799,1.0,1,0.27
+ddr-densho-1000-164,ddr-densho-1000-164-2-transcript-d2e1606768,Tom Akashi,Tom Akashi Interview Segment 2 Transcript,2004,"Klamath Falls, Oregon",Issei,184,0.999,1,0.119
+ddr-densho-1000-164,ddr-densho-1000-164-29-transcript-d33606400d,Tom Akashi,Tom Akashi Interview Segment 29 Transcript,2004,"Klamath Falls, Oregon",Issei,350,0.996,2,0.1154
+ddr-densho-1000-164,ddr-densho-1000-164-53-transcript-d531d16fd1,Tom Akashi,Tom Akashi Interview Segment 53 Transcript,2004,"Klamath Falls, Oregon",Issei,323,0.446,4,0.1959
+ddr-densho-1000-164,ddr-densho-1000-164-44-transcript-d6f3694148,Tom Akashi,Tom Akashi Interview Segment 44 Transcript,2004,"Klamath Falls, Oregon",Issei,382,0.998,1,0.161
+ddr-densho-1000-164,ddr-densho-1000-164-46-transcript-dcb44ecf6b,Tom Akashi,Tom Akashi Interview Segment 46 Transcript,2004,"Klamath Falls, Oregon",Issei,174,0.997,1,0.2465
+ddr-densho-1000-164,ddr-densho-1000-164-24-transcript-e4a19895ff,Tom Akashi,Tom Akashi Interview Segment 24 Transcript,2004,"Klamath Falls, Oregon",Issei,281,0.995,2,0.1377
+ddr-densho-1000-164,ddr-densho-1000-164-56-transcript-e9a23f906f,Tom Akashi,Tom Akashi Interview Segment 56 Transcript,2004,"Klamath Falls, Oregon",Issei,410,0.999,2,0.2027
+ddr-densho-1000-164,ddr-densho-1000-164-8-transcript-fa000bd97e,Tom Akashi,Tom Akashi Interview Segment 8 Transcript,2004,"Klamath Falls, Oregon",Issei,145,0.997,0,0.1622
+ddr-densho-1000-188,ddr-densho-1000-188-19-transcript-0b24a5387f,Mas Akiyama,Mas Akiyama Segment 19 Transcript,2006,"Spokane, Washington",Nisei,125,0.963,5,0.1821
+ddr-densho-1000-188,ddr-densho-1000-188-7-transcript-191e620f3a,Mas Akiyama,Mas Akiyama Segment 7 Transcript,2006,"Spokane, Washington",Nisei,129,-0.716,1,0.1809
+ddr-densho-1000-188,ddr-densho-1000-188-10-transcript-2c6652222f,Mas Akiyama,Mas Akiyama Segment 10 Transcript,2006,"Spokane, Washington",Nisei,128,0.93,5,0.1642
+ddr-densho-1000-188,ddr-densho-1000-188-4-transcript-2eaef0131f,Mas Akiyama,Mas Akiyama Segment 4 Transcript,2006,"Spokane, Washington",Nisei,141,0.92,5,0.1585
+ddr-densho-1000-188,ddr-densho-1000-188-1-transcript-30f3c373a9,Mas Akiyama,Mas Akiyama Segment 1 Transcript,2006,"Spokane, Washington",Nisei,140,0.97,5,0.2851
+ddr-densho-1000-188,ddr-densho-1000-188-3-transcript-4e8625ebea,Mas Akiyama,Mas Akiyama Segment 3 Transcript,2006,"Spokane, Washington",Nisei,191,0.999,5,0.1035
+ddr-densho-1000-188,ddr-densho-1000-188-24-transcript-521396561a,Mas Akiyama,Mas Akiyama Segment 24 Transcript,2006,"Spokane, Washington",Nisei,108,0.564,5,0.0828
+ddr-densho-1000-188,ddr-densho-1000-188-5-transcript-5d1fd403b2,Mas Akiyama,Mas Akiyama Segment 5 Transcript,2006,"Spokane, Washington",Nisei,110,0.965,5,0.0883
+ddr-densho-1000-188,ddr-densho-1000-188-25-transcript-6086968979,Mas Akiyama,Mas Akiyama Segment 25 Transcript,2006,"Spokane, Washington",Nisei,158,0.997,5,0.0891
+ddr-densho-1000-188,ddr-densho-1000-188-18-transcript-60d737dccd,Mas Akiyama,Mas Akiyama Segment 18 Transcript,2006,"Spokane, Washington",Nisei,230,0.74,5,0.3682
+ddr-densho-1000-188,ddr-densho-1000-188-9-transcript-689da2bc56,Mas Akiyama,Mas Akiyama Segment 9 Transcript,2006,"Spokane, Washington",Nisei,165,0.993,5,0.2332
+ddr-densho-1000-188,ddr-densho-1000-188-11-transcript-882d5aa350,Mas Akiyama,Mas Akiyama Segment 11 Transcript,2006,"Spokane, Washington",Nisei,175,-0.902,5,0.1725
+ddr-densho-1000-188,ddr-densho-1000-188-6-transcript-a29dd415fd,Mas Akiyama,Mas Akiyama Segment 6 Transcript,2006,"Spokane, Washington",Nisei,146,0.99,5,0.429
+ddr-densho-1000-188,ddr-densho-1000-188-17-transcript-c3b79f628c,Mas Akiyama,Mas Akiyama Segment 17 Transcript,2006,"Spokane, Washington",Nisei,137,-0.949,5,0.2365
+ddr-densho-1000-188,ddr-densho-1000-188-8-transcript-d374e18afd,Mas Akiyama,Mas Akiyama Segment 8 Transcript,2006,"Spokane, Washington",Nisei,188,0.994,1,0.2927
+ddr-densho-1000-188,ddr-densho-1000-188-20-transcript-d8b76b9ce5,Mas Akiyama,Mas Akiyama Segment 20 Transcript,2006,"Spokane, Washington",Nisei,118,0.98,5,0.0502
+ddr-densho-1000-188,ddr-densho-1000-188-16-transcript-df0db368a2,Mas Akiyama,Mas Akiyama Segment 16 Transcript,2006,"Spokane, Washington",Nisei,169,0.991,5,0.4145
+ddr-densho-1000-188,ddr-densho-1000-188-21-transcript-e128b66127,Mas Akiyama,Mas Akiyama Segment 21 Transcript,2006,"Spokane, Washington",Nisei,124,0.989,5,0.2429
+ddr-densho-1000-188,ddr-densho-1000-188-12-transcript-e365e49a74,Mas Akiyama,Mas Akiyama Segment 12 Transcript,2006,"Spokane, Washington",Nisei,128,0.711,5,0.137
+ddr-densho-1000-188,ddr-densho-1000-188-14-transcript-e5d97a2b0c,Mas Akiyama,Mas Akiyama Segment 14 Transcript,2006,"Spokane, Washington",Nisei,173,0.995,5,0.1951
+ddr-densho-1000-188,ddr-densho-1000-188-2-transcript-fa36626184,Mas Akiyama,Mas Akiyama Segment 2 Transcript,2006,"Spokane, Washington",Nisei,124,0.995,5,0.3238
+ddr-densho-1000-188,ddr-densho-1000-188-15-transcript-fa7fb93f76,Mas Akiyama,Mas Akiyama Segment 15 Transcript,2006,"Spokane, Washington",Nisei,205,0.998,4,0.193
+ddr-densho-1000-188,ddr-densho-1000-188-22-transcript-fabc192f60,Mas Akiyama,Mas Akiyama Segment 22 Transcript,2006,"Spokane, Washington",Nisei,235,0.993,5,0.3716
+ddr-densho-1000-188,ddr-densho-1000-188-transcript-fc6ea34aa3,Mas Akiyama,Mas Akiyama Transcript,2006,"Spokane, Washington",Nisei,3706,1.0,5,0.5868
+ddr-densho-1000-206,ddr-densho-1000-206-4-transcript-05d31ed850,Art Abe,Art Abe Interview Segment 4 Transcript,2008,"Seattle, Washington",Nisei,240,0.995,1,0.1859
+ddr-densho-1000-206,ddr-densho-1000-206-3-transcript-12bbc0bed9,Art Abe,Art Abe Interview Segment 3 Transcript,2008,"Seattle, Washington",Nisei,125,0.981,3,0.1069
+ddr-densho-1000-206,ddr-densho-1000-206-12-transcript-132f819f2e,Art Abe,Art Abe Interview Segment 12 Transcript,2008,"Seattle, Washington",Nisei,183,0.979,3,0.1623
+ddr-densho-1000-206,ddr-densho-1000-206-2-transcript-14549aa0a0,Art Abe,Art Abe Interview Segment 2 Transcript,2008,"Seattle, Washington",Nisei,194,0.99,1,0.3096
+ddr-densho-1000-206,ddr-densho-1000-206-20-transcript-28d802afed,Art Abe,Art Abe Interview Segment 20 Transcript,2008,"Seattle, Washington",Nisei,306,0.989,3,0.1382
+ddr-densho-1000-206,ddr-densho-1000-206-15-transcript-2b7dbe781b,Art Abe,Art Abe Interview Segment 15 Transcript,2008,"Seattle, Washington",Nisei,210,0.98,3,0.1927
+ddr-densho-1000-206,ddr-densho-1000-206-22-transcript-2e016c70e8,Art Abe,Art Abe Interview Segment 22 Transcript,2008,"Seattle, Washington",Nisei,220,-0.353,2,0.104
+ddr-densho-1000-206,ddr-densho-1000-206-30-transcript-3ae1cd96af,Art Abe,Art Abe Interview Segment 30 Transcript,2008,"Seattle, Washington",Nisei,213,0.994,5,0.197
+ddr-densho-1000-206,ddr-densho-1000-206-16-transcript-3f50bb61b6,Art Abe,Art Abe Interview Segment 16 Transcript,2008,"Seattle, Washington",Nisei,242,0.935,3,0.2771
+ddr-densho-1000-206,ddr-densho-1000-206-27-transcript-45bbfdc3f0,Art Abe,Art Abe Interview Segment 27 Transcript,2008,"Seattle, Washington",Nisei,173,0.989,3,0.0962
+ddr-densho-1000-206,ddr-densho-1000-206-29-transcript-4ac216c698,Art Abe,Art Abe Interview Segment 29 Transcript,2008,"Seattle, Washington",Nisei,142,0.179,3,0.1023
+ddr-densho-1000-206,ddr-densho-1000-206-24-transcript-58ef287815,Art Abe,Art Abe Interview Segment 24 Transcript,2008,"Seattle, Washington",Nisei,268,0.99,3,0.1325
+ddr-densho-1000-206,ddr-densho-1000-206-25-transcript-60b1858024,Art Abe,Art Abe Interview Segment 25 Transcript,2008,"Seattle, Washington",Nisei,272,0.999,3,0.0948
+ddr-densho-1000-206,ddr-densho-1000-206-26-transcript-651d1887e6,Art Abe,Art Abe Interview Segment 26 Transcript,2008,"Seattle, Washington",Nisei,209,0.942,3,0.0834
+ddr-densho-1000-206,ddr-densho-1000-206-6-transcript-692435060f,Art Abe,Art Abe Interview Segment 6 Transcript,2008,"Seattle, Washington",Nisei,104,0.973,0,0.1122
+ddr-densho-1000-206,ddr-densho-1000-206-14-transcript-6dde280976,Art Abe,Art Abe Interview Segment 14 Transcript,2008,"Seattle, Washington",Nisei,137,0.991,3,0.1179
+ddr-densho-1000-206,ddr-densho-1000-206-5-transcript-7db34edfdc,Art Abe,Art Abe Interview Segment 5 Transcript,2008,"Seattle, Washington",Nisei,150,0.936,3,0.1539
+ddr-densho-1000-206,ddr-densho-1000-206-8-transcript-858f6ef30a,Art Abe,Art Abe Interview Segment 8 Transcript,2008,"Seattle, Washington",Nisei,248,0.998,3,0.0913
+ddr-densho-1000-206,ddr-densho-1000-206-19-transcript-89e2aabd54,Art Abe,Art Abe Interview Segment 19 Transcript,2008,"Seattle, Washington",Nisei,334,0.998,3,0.1789
+ddr-densho-1000-206,ddr-densho-1000-206-17-transcript-9135a7510d,Art Abe,Art Abe Interview Segment 17 Transcript,2008,"Seattle, Washington",Nisei,226,0.991,3,0.1225
+ddr-densho-1000-206,ddr-densho-1000-206-21-transcript-91c38e45e1,Art Abe,Art Abe Interview Segment 21 Transcript,2008,"Seattle, Washington",Nisei,343,0.994,4,0.1687
+ddr-densho-1000-206,ddr-densho-1000-206-18-transcript-981f7c2bf5,Art Abe,Art Abe Interview Segment 18 Transcript,2008,"Seattle, Washington",Nisei,184,-0.54,4,0.1031
+ddr-densho-1000-206,ddr-densho-1000-206-7-transcript-9d3211b112,Art Abe,Art Abe Interview Segment 7 Transcript,2008,"Seattle, Washington",Nisei,231,0.993,0,0.1639
+ddr-densho-1000-206,ddr-densho-1000-206-13-transcript-b1a9151fc3,Art Abe,Art Abe Interview Segment 13 Transcript,2008,"Seattle, Washington",Nisei,188,0.938,3,0.099
+ddr-densho-1000-206,ddr-densho-1000-206-9-transcript-bb064b0133,Art Abe,Art Abe Interview Segment 9 Transcript,2008,"Seattle, Washington",Nisei,227,0.997,0,0.2382
+ddr-densho-1000-206,ddr-densho-1000-206-transcript-ca077fc2db,Art Abe,Art Abe Interview Transcript,2008,"Seattle, Washington",Nisei,6361,1.0,3,0.3136
+ddr-densho-1000-206,ddr-densho-1000-206-28-transcript-d008593976,Art Abe,Art Abe Interview Segment 28 Transcript,2008,"Seattle, Washington",Nisei,348,0.999,3,0.1457
+ddr-densho-1000-206,ddr-densho-1000-206-11-transcript-d766c8d5f2,Art Abe,Art Abe Interview Segment 11 Transcript,2008,"Seattle, Washington",Nisei,175,0.965,3,0.1451
+ddr-densho-1000-206,ddr-densho-1000-206-1-transcript-f163a7f688,Art Abe,Art Abe Interview Segment 1 Transcript,2008,"Seattle, Washington",Nisei,221,0.996,1,0.3231
+ddr-densho-1000-206,ddr-densho-1000-206-23-transcript-fce30f7f66,Art Abe,Art Abe Interview Segment 23 Transcript,2008,"Seattle, Washington",Nisei,162,0.843,2,0.1353
+ddr-densho-1000-208,ddr-densho-1000-208-29-transcript-00dd34af59,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 29 Transcript,2008,"Seattle, Washington",Nisei,303,0.993,3,0.2847
+ddr-densho-1000-208,ddr-densho-1000-208-19-transcript-071cf720d8,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 19 Transcript,2008,"Seattle, Washington",Nisei,248,0.993,0,0.244
+ddr-densho-1000-208,ddr-densho-1000-208-17-transcript-07465324a4,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 17 Transcript,2008,"Seattle, Washington",Nisei,172,0.988,0,0.1695
+ddr-densho-1000-208,ddr-densho-1000-208-30-transcript-12a46b0df1,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 30 Transcript,2008,"Seattle, Washington",Nisei,153,0.77,3,0.2175
+ddr-densho-1000-208,ddr-densho-1000-208-22-transcript-20c9e1e5b4,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 22 Transcript,2008,"Seattle, Washington",Nisei,99,0.977,0,0.2741
+ddr-densho-1000-208,ddr-densho-1000-208-25-transcript-2a63ec545c,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 25 Transcript,2008,"Seattle, Washington",Nisei,218,0.861,3,0.154
+ddr-densho-1000-208,ddr-densho-1000-208-transcript-2dfcee8d62,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Transcript,2008,"Seattle, Washington",Nisei,7284,1.0,3,0.4294
+ddr-densho-1000-208,ddr-densho-1000-208-6-transcript-31d57900d1,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 6 Transcript,2008,"Seattle, Washington",Nisei,295,0.993,3,0.2502
+ddr-densho-1000-208,ddr-densho-1000-208-11-transcript-3868f243d4,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 11 Transcript,2008,"Seattle, Washington",Nisei,353,0.991,3,0.1876
+ddr-densho-1000-208,ddr-densho-1000-208-1-transcript-3a18e6d1fe,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 1 Transcript,2008,"Seattle, Washington",Nisei,198,0.988,3,0.1126
+ddr-densho-1000-208,ddr-densho-1000-208-24-transcript-4631e83e14,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 24 Transcript,2008,"Seattle, Washington",Nisei,313,0.827,3,0.189
+ddr-densho-1000-208,ddr-densho-1000-208-5-transcript-55a3a5e02f,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 5 Transcript,2008,"Seattle, Washington",Nisei,302,0.995,0,0.124
+ddr-densho-1000-208,ddr-densho-1000-208-13-transcript-5ac73c8b68,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 13 Transcript,2008,"Seattle, Washington",Nisei,151,0.936,3,0.1719
+ddr-densho-1000-208,ddr-densho-1000-208-12-transcript-5b65e92915,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 12 Transcript,2008,"Seattle, Washington",Nisei,237,0.971,3,0.1844
+ddr-densho-1000-208,ddr-densho-1000-208-9-transcript-5bec2a92c6,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 9 Transcript,2008,"Seattle, Washington",Nisei,123,-0.925,3,0.1929
+ddr-densho-1000-208,ddr-densho-1000-208-14-transcript-611f6594c8,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 14 Transcript,2008,"Seattle, Washington",Nisei,211,0.992,3,0.192
+ddr-densho-1000-208,ddr-densho-1000-208-28-transcript-7b77eefcf5,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 28 Transcript,2008,"Seattle, Washington",Nisei,172,0.738,2,0.098
+ddr-densho-1000-208,ddr-densho-1000-208-20-transcript-7d9d6cc338,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 20 Transcript,2008,"Seattle, Washington",Nisei,136,0.876,0,0.1801
+ddr-densho-1000-208,ddr-densho-1000-208-8-transcript-86e69a4ef3,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 8 Transcript,2008,"Seattle, Washington",Nisei,140,0.942,3,0.1468
+ddr-densho-1000-208,ddr-densho-1000-208-15-transcript-89199b85c3,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 15 Transcript,2008,"Seattle, Washington",Nisei,293,0.997,3,0.1904
+ddr-densho-1000-208,ddr-densho-1000-208-21-transcript-8fe104315b,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 21 Transcript,2008,"Seattle, Washington",Nisei,275,0.968,0,0.1736
+ddr-densho-1000-208,ddr-densho-1000-208-3-transcript-9694fe8abf,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 3 Transcript,2008,"Seattle, Washington",Nisei,175,-0.961,1,0.2344
+ddr-densho-1000-208,ddr-densho-1000-208-23-transcript-9bbf37b63d,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 23 Transcript,2008,"Seattle, Washington",Nisei,195,0.979,3,0.0759
+ddr-densho-1000-208,ddr-densho-1000-208-16-transcript-a2a673f0dd,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 16 Transcript,2008,"Seattle, Washington",Nisei,289,0.998,3,0.18
+ddr-densho-1000-208,ddr-densho-1000-208-10-transcript-aa900c38a5,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 10 Transcript,2008,"Seattle, Washington",Nisei,472,0.998,3,0.24
+ddr-densho-1000-208,ddr-densho-1000-208-7-transcript-acedd16ab5,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 7 Transcript,2008,"Seattle, Washington",Nisei,231,0.995,3,0.2569
+ddr-densho-1000-208,ddr-densho-1000-208-2-transcript-b4692f104d,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 2 Transcript,2008,"Seattle, Washington",Nisei,271,0.983,1,0.106
+ddr-densho-1000-208,ddr-densho-1000-208-4-transcript-be4866c537,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 4 Transcript,2008,"Seattle, Washington",Nisei,472,0.996,1,0.2282
+ddr-densho-1000-208,ddr-densho-1000-208-26-transcript-cda9a42a29,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 26 Transcript,2008,"Seattle, Washington",Nisei,279,0.984,3,0.1571
+ddr-densho-1000-208,ddr-densho-1000-208-18-transcript-da2b297583,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 18 Transcript,2008,"Seattle, Washington",Nisei,325,1.0,3,0.157
+ddr-densho-1000-208,ddr-densho-1000-208-27-transcript-e2343348c8,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview I Segment 27 Transcript,2008,"Seattle, Washington",Nisei,183,0.956,3,0.1312
+ddr-densho-1000-209,ddr-densho-1000-209-6-transcript-02e84b6cb9,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 6 Transcript,2008,"Seattle, Washington",Nisei,246,0.995,3,0.2603
+ddr-densho-1000-209,ddr-densho-1000-209-30-transcript-0ca4055abe,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 30 Transcript,2008,"Seattle, Washington",Nisei,466,0.994,2,0.1841
+ddr-densho-1000-209,ddr-densho-1000-209-16-transcript-10ee223c5c,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 16 Transcript,2008,"Seattle, Washington",Nisei,431,0.998,3,0.2007
+ddr-densho-1000-209,ddr-densho-1000-209-4-transcript-1190aa7cbc,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 4 Transcript,2008,"Seattle, Washington",Nisei,305,0.987,3,0.1902
+ddr-densho-1000-209,ddr-densho-1000-209-8-transcript-19811eebb4,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 8 Transcript,2008,"Seattle, Washington",Nisei,436,0.965,3,0.1472
+ddr-densho-1000-209,ddr-densho-1000-209-1-transcript-1ef025d35a,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 1 Transcript,2008,"Seattle, Washington",Nisei,236,0.998,3,0.1644
+ddr-densho-1000-209,ddr-densho-1000-209-17-transcript-1f158f1576,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 17 Transcript,2008,"Seattle, Washington",Nisei,130,0.993,3,0.2413
+ddr-densho-1000-209,ddr-densho-1000-209-12-transcript-1fa2a17d83,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 12 Transcript,2008,"Seattle, Washington",Nisei,264,0.998,3,0.16
+ddr-densho-1000-209,ddr-densho-1000-209-28-transcript-2404ac18fc,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 28 Transcript,2008,"Seattle, Washington",Nisei,430,0.999,3,0.2106
+ddr-densho-1000-209,ddr-densho-1000-209-19-transcript-2832df1367,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 19 Transcript,2008,"Seattle, Washington",Nisei,227,0.997,3,0.1346
+ddr-densho-1000-209,ddr-densho-1000-209-15-transcript-2e350166d8,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 15 Transcript,2008,"Seattle, Washington",Nisei,193,0.994,3,0.1871
+ddr-densho-1000-209,ddr-densho-1000-209-7-transcript-46e3d67da6,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 7 Transcript,2008,"Seattle, Washington",Nisei,153,-0.88,3,0.1358
+ddr-densho-1000-209,ddr-densho-1000-209-23-transcript-4854281a49,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 23 Transcript,2008,"Seattle, Washington",Nisei,278,0.998,3,0.2848
+ddr-densho-1000-209,ddr-densho-1000-209-25-transcript-622423de09,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 25 Transcript,2008,"Seattle, Washington",Nisei,540,0.997,3,0.2634
+ddr-densho-1000-209,ddr-densho-1000-209-13-transcript-666599b39f,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 13 Transcript,2008,"Seattle, Washington",Nisei,224,0.991,3,0.1252
+ddr-densho-1000-209,ddr-densho-1000-209-2-transcript-797f645277,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 2 Transcript,2008,"Seattle, Washington",Nisei,244,0.995,3,0.101
+ddr-densho-1000-209,ddr-densho-1000-209-27-transcript-8bdb254191,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 27 Transcript,2008,"Seattle, Washington",Nisei,202,0.991,3,0.2237
+ddr-densho-1000-209,ddr-densho-1000-209-22-transcript-95dfe171e3,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 22 Transcript,2008,"Seattle, Washington",Nisei,494,0.97,3,0.2913
+ddr-densho-1000-209,ddr-densho-1000-209-26-transcript-b0e71476b7,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 26 Transcript,2008,"Seattle, Washington",Nisei,307,0.992,3,0.1989
+ddr-densho-1000-209,ddr-densho-1000-209-11-transcript-b8e24e5e95,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 11 Transcript,2008,"Seattle, Washington",Nisei,304,0.998,3,0.1464
+ddr-densho-1000-209,ddr-densho-1000-209-20-transcript-bd46c959a8,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 20 Transcript,2008,"Seattle, Washington",Nisei,125,0.995,3,0.0985
+ddr-densho-1000-209,ddr-densho-1000-209-10-transcript-c17b7fe384,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 10 Transcript,2008,"Seattle, Washington",Nisei,189,0.987,3,0.1141
+ddr-densho-1000-209,ddr-densho-1000-209-5-transcript-ce6b780cef,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 5 Transcript,2008,"Seattle, Washington",Nisei,302,0.986,3,0.2109
+ddr-densho-1000-209,ddr-densho-1000-209-18-transcript-d514b471d6,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 18 Transcript,2008,"Seattle, Washington",Nisei,327,0.994,4,0.1072
+ddr-densho-1000-209,ddr-densho-1000-209-24-transcript-d68e7ee6e7,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 24 Transcript,2008,"Seattle, Washington",Nisei,404,0.998,3,0.2705
+ddr-densho-1000-209,ddr-densho-1000-209-29-transcript-e360e8cdc3,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 29 Transcript,2008,"Seattle, Washington",Nisei,473,0.797,3,0.2501
+ddr-densho-1000-209,ddr-densho-1000-209-9-transcript-e59b36036f,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 9 Transcript,2008,"Seattle, Washington",Nisei,500,0.999,3,0.146
+ddr-densho-1000-209,ddr-densho-1000-209-transcript-e696675e42,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Transcript,2008,"Seattle, Washington",Nisei,9249,1.0,3,0.4768
+ddr-densho-1000-209,ddr-densho-1000-209-14-transcript-e7ec2df911,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 14 Transcript,2008,"Seattle, Washington",Nisei,209,0.996,3,0.1008
+ddr-densho-1000-209,ddr-densho-1000-209-21-transcript-ece17dacdf,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 21 Transcript,2008,"Seattle, Washington",Nisei,389,0.999,3,0.2153
+ddr-densho-1000-209,ddr-densho-1000-209-3-transcript-f4dd30ce81,Sharon Tanagi Aburano,Sharon Tanagi Aburano Interview II Segment 3 Transcript,2008,"Seattle, Washington",Nisei,221,0.969,3,0.2142
+ddr-densho-1000-221,ddr-densho-1000-221-6-transcript-15f1ef3d2f,Yae Aihara,Yae Aihara Interview Segment 6 Transcript,2008,"Denver, Colorado",Nisei,282,0.343,1,0.1668
+ddr-densho-1000-221,ddr-densho-1000-221-8-transcript-1b7bfad1db,Yae Aihara,Yae Aihara Interview Segment 8 Transcript,2008,"Denver, Colorado",Nisei,140,0.978,3,0.1063
+ddr-densho-1000-221,ddr-densho-1000-221-9-transcript-22683f3441,Yae Aihara,Yae Aihara Interview Segment 9 Transcript,2008,"Denver, Colorado",Nisei,103,0.877,1,0.2717
+ddr-densho-1000-221,ddr-densho-1000-221-16-transcript-248fc6e0fc,Yae Aihara,Yae Aihara Interview Segment 16 Transcript,2008,"Denver, Colorado",Nisei,209,0.919,1,0.1649
+ddr-densho-1000-221,ddr-densho-1000-221-transcript-2af698b01c,Yae Aihara,Yae Aihara Interview Transcript,2008,"Denver, Colorado",Nisei,3324,1.0,1,0.2613
+ddr-densho-1000-221,ddr-densho-1000-221-14-transcript-3364d9dfe8,Yae Aihara,Yae Aihara Interview Segment 14 Transcript,2008,"Denver, Colorado",Nisei,155,-0.986,3,0.0636
+ddr-densho-1000-221,ddr-densho-1000-221-10-transcript-34ed6add75,Yae Aihara,Yae Aihara Interview Segment 10 Transcript,2008,"Denver, Colorado",Nisei,122,0.532,4,0.1748
+ddr-densho-1000-221,ddr-densho-1000-221-18-transcript-3b25c4fa88,Yae Aihara,Yae Aihara Interview Segment 18 Transcript,2008,"Denver, Colorado",Nisei,184,0.584,1,0.0956
+ddr-densho-1000-221,ddr-densho-1000-221-3-transcript-5eb4c56485,Yae Aihara,Yae Aihara Interview Segment 3 Transcript,2008,"Denver, Colorado",Nisei,233,0.997,0,0.2779
+ddr-densho-1000-221,ddr-densho-1000-221-17-transcript-6a47beb364,Yae Aihara,Yae Aihara Interview Segment 17 Transcript,2008,"Denver, Colorado",Nisei,128,0.95,0,0.0922
+ddr-densho-1000-221,ddr-densho-1000-221-15-transcript-6eb8d570ab,Yae Aihara,Yae Aihara Interview Segment 15 Transcript,2008,"Denver, Colorado",Nisei,236,-0.896,1,0.2565
+ddr-densho-1000-221,ddr-densho-1000-221-13-transcript-85eb6ebe78,Yae Aihara,Yae Aihara Interview Segment 13 Transcript,2008,"Denver, Colorado",Nisei,336,0.997,0,0.1269
+ddr-densho-1000-221,ddr-densho-1000-221-5-transcript-99e98787ed,Yae Aihara,Yae Aihara Interview Segment 5 Transcript,2008,"Denver, Colorado",Nisei,189,0.994,3,0.1445
+ddr-densho-1000-221,ddr-densho-1000-221-4-transcript-a07726c074,Yae Aihara,Yae Aihara Interview Segment 4 Transcript,2008,"Denver, Colorado",Nisei,121,0.934,0,0.1768
+ddr-densho-1000-221,ddr-densho-1000-221-12-transcript-adf6644557,Yae Aihara,Yae Aihara Interview Segment 12 Transcript,2008,"Denver, Colorado",Nisei,302,-0.988,1,0.0901
+ddr-densho-1000-221,ddr-densho-1000-221-1-transcript-b131a8c10e,Yae Aihara,Yae Aihara Interview Segment 1 Transcript,2008,"Denver, Colorado",Nisei,109,0.773,1,0.2035
+ddr-densho-1000-221,ddr-densho-1000-221-11-transcript-d8f61e8a40,Yae Aihara,Yae Aihara Interview Segment 11 Transcript,2008,"Denver, Colorado",Nisei,163,0.99,1,0.1447
+ddr-densho-1000-221,ddr-densho-1000-221-19-transcript-e50b2976b2,Yae Aihara,Yae Aihara Interview Segment 19 Transcript,2008,"Denver, Colorado",Nisei,149,0.997,0,0.0799
+ddr-densho-1000-221,ddr-densho-1000-221-7-transcript-f88aefe905,Yae Aihara,Yae Aihara Interview Segment 7 Transcript,2008,"Denver, Colorado",Nisei,99,0.886,3,0.1704
+ddr-densho-1000-228,ddr-densho-1000-228-11-transcript-08ef9f7545,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 11 Transcript,2008,"Seattle, Washington",Nisei,158,0.985,1,0.1477
+ddr-densho-1000-228,ddr-densho-1000-228-14-transcript-11e54a9d83,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 14 Transcript,2008,"Seattle, Washington",Nisei,243,0.857,1,0.1731
+ddr-densho-1000-228,ddr-densho-1000-228-19-transcript-176cedca9d,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 19 Transcript,2008,"Seattle, Washington",Nisei,313,0.994,1,0.2005
+ddr-densho-1000-228,ddr-densho-1000-228-2-transcript-1b5b86aae0,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 2 Transcript,2008,"Seattle, Washington",Nisei,165,0.992,1,0.1524
+ddr-densho-1000-228,ddr-densho-1000-228-5-transcript-25d3c5fc79,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 5 Transcript,2008,"Seattle, Washington",Nisei,285,0.999,4,0.0994
+ddr-densho-1000-228,ddr-densho-1000-228-transcript-3deea40e4b,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Transcript,2008,"Seattle, Washington",Nisei,4541,1.0,1,0.2891
+ddr-densho-1000-228,ddr-densho-1000-228-12-transcript-3e8895af10,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 12 Transcript,2008,"Seattle, Washington",Nisei,165,-0.992,1,0.1791
+ddr-densho-1000-228,ddr-densho-1000-228-16-transcript-3f435da0cf,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 16 Transcript,2008,"Seattle, Washington",Nisei,112,0.924,3,0.0982
+ddr-densho-1000-228,ddr-densho-1000-228-20-transcript-50a8a1a5f7,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 20 Transcript,2008,"Seattle, Washington",Nisei,282,0.995,1,0.1645
+ddr-densho-1000-228,ddr-densho-1000-228-8-transcript-5103551a6d,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 8 Transcript,2008,"Seattle, Washington",Nisei,207,0.941,4,0.1745
+ddr-densho-1000-228,ddr-densho-1000-228-10-transcript-61c1d47806,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 10 Transcript,2008,"Seattle, Washington",Nisei,207,0.998,1,0.1018
+ddr-densho-1000-228,ddr-densho-1000-228-18-transcript-6fffb8c3b5,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 18 Transcript,2008,"Seattle, Washington",Nisei,108,0.987,4,0.1166
+ddr-densho-1000-228,ddr-densho-1000-228-6-transcript-944e07f41c,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 6 Transcript,2008,"Seattle, Washington",Nisei,230,0.985,4,0.3097
+ddr-densho-1000-228,ddr-densho-1000-228-13-transcript-9ed04c38b9,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 13 Transcript,2008,"Seattle, Washington",Nisei,299,-0.987,0,0.0869
+ddr-densho-1000-228,ddr-densho-1000-228-3-transcript-9f6c6cf1cb,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 3 Transcript,2008,"Seattle, Washington",Nisei,317,-0.953,0,0.193
+ddr-densho-1000-228,ddr-densho-1000-228-7-transcript-a2f2005bc5,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 7 Transcript,2008,"Seattle, Washington",Nisei,214,0.976,4,0.1852
+ddr-densho-1000-228,ddr-densho-1000-228-15-transcript-cc0dc4002a,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 15 Transcript,2008,"Seattle, Washington",Nisei,315,0.984,2,0.1099
+ddr-densho-1000-228,ddr-densho-1000-228-4-transcript-f599582f29,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 4 Transcript,2008,"Seattle, Washington",Nisei,229,0.703,0,0.209
+ddr-densho-1000-228,ddr-densho-1000-228-1-transcript-f650ea5ec0,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 1 Transcript,2008,"Seattle, Washington",Nisei,484,0.997,1,0.3989
+ddr-densho-1000-228,ddr-densho-1000-228-9-transcript-f8cd5cbd49,Sumie Suguro Akizuki,Sumie Suguro Akizuki Interview Segment 9 Transcript,2008,"Seattle, Washington",Nisei,122,-0.248,0,0.1366
+ddr-densho-1000-232,ddr-densho-1000-232-2-transcript-0274ff03fe,Kay Aiko Abe,Kay Aiko Abe Interview Segment 2 Transcript,2008,"Seattle, Washington",Nisei,214,0.979,1,0.3996
+ddr-densho-1000-232,ddr-densho-1000-232-8-transcript-08dc170451,Kay Aiko Abe,Kay Aiko Abe Interview Segment 8 Transcript,2008,"Seattle, Washington",Nisei,381,1.0,1,0.1868
+ddr-densho-1000-232,ddr-densho-1000-232-3-transcript-1b461be484,Kay Aiko Abe,Kay Aiko Abe Interview Segment 3 Transcript,2008,"Seattle, Washington",Nisei,132,0.995,0,0.2415
+ddr-densho-1000-232,ddr-densho-1000-232-transcript-1bf6341745,Kay Aiko Abe,Kay Aiko Abe Interview Transcript,2008,"Seattle, Washington",Nisei,4161,1.0,1,0.2975
+ddr-densho-1000-232,ddr-densho-1000-232-9-transcript-415be4ea42,Kay Aiko Abe,Kay Aiko Abe Interview Segment 9 Transcript,2008,"Seattle, Washington",Nisei,189,0.998,1,0.1031
+ddr-densho-1000-232,ddr-densho-1000-232-6-transcript-555cb586cf,Kay Aiko Abe,Kay Aiko Abe Interview Segment 6 Transcript,2008,"Seattle, Washington",Nisei,303,0.998,1,0.2801
+ddr-densho-1000-232,ddr-densho-1000-232-10-transcript-65212c3e7f,Kay Aiko Abe,Kay Aiko Abe Interview Segment 10 Transcript,2008,"Seattle, Washington",Nisei,269,0.997,3,0.1152
+ddr-densho-1000-232,ddr-densho-1000-232-15-transcript-802a47b20b,Kay Aiko Abe,Kay Aiko Abe Interview Segment 15 Transcript,2008,"Seattle, Washington",Nisei,163,0.997,5,0.077
+ddr-densho-1000-232,ddr-densho-1000-232-1-transcript-82e427046a,Kay Aiko Abe,Kay Aiko Abe Interview Segment 1 Transcript,2008,"Seattle, Washington",Nisei,132,0.966,1,0.1792
+ddr-densho-1000-232,ddr-densho-1000-232-11-transcript-9a922e282a,Kay Aiko Abe,Kay Aiko Abe Interview Segment 11 Transcript,2008,"Seattle, Washington",Nisei,94,0.906,3,0.0712
+ddr-densho-1000-232,ddr-densho-1000-232-16-transcript-9bc2197df2,Kay Aiko Abe,Kay Aiko Abe Interview Segment 16 Transcript,2008,"Seattle, Washington",Nisei,241,0.999,1,0.1253
+ddr-densho-1000-232,ddr-densho-1000-232-12-transcript-ac35546b83,Kay Aiko Abe,Kay Aiko Abe Interview Segment 12 Transcript,2008,"Seattle, Washington",Nisei,219,0.997,0,0.0772
+ddr-densho-1000-232,ddr-densho-1000-232-5-transcript-afd1f32c45,Kay Aiko Abe,Kay Aiko Abe Interview Segment 5 Transcript,2008,"Seattle, Washington",Nisei,278,0.999,1,0.1936
+ddr-densho-1000-232,ddr-densho-1000-232-18-transcript-b1d5384b66,Kay Aiko Abe,Kay Aiko Abe Interview Segment 18 Transcript,2008,"Seattle, Washington",Nisei,335,1.0,1,0.105
+ddr-densho-1000-232,ddr-densho-1000-232-17-transcript-cc46cd9fb6,Kay Aiko Abe,Kay Aiko Abe Interview Segment 17 Transcript,2008,"Seattle, Washington",Nisei,282,0.993,5,0.1348
+ddr-densho-1000-232,ddr-densho-1000-232-4-transcript-dc7920d5f5,Kay Aiko Abe,Kay Aiko Abe Interview Segment 4 Transcript,2008,"Seattle, Washington",Nisei,351,0.998,1,0.1546
+ddr-densho-1000-232,ddr-densho-1000-232-14-transcript-e9cbc4107a,Kay Aiko Abe,Kay Aiko Abe Interview Segment 14 Transcript,2008,"Seattle, Washington",Nisei,252,0.998,5,0.172
+ddr-densho-1000-232,ddr-densho-1000-232-7-transcript-f86923b026,Kay Aiko Abe,Kay Aiko Abe Interview Segment 7 Transcript,2008,"Seattle, Washington",Nisei,252,0.997,1,0.2024
+ddr-densho-1000-522,ddr-densho-1000-522-10-transcript-0d9752146c,Douglas L. Aihara,Douglas L. Aihara Interview Segment 10 Transcript,,"Los Angeles, California",Sansei,353,1.0,0,0.0928
+ddr-densho-1000-522,ddr-densho-1000-522-6-transcript-14cf5c8585,Douglas L. Aihara,Douglas L. Aihara Interview Segment 6 Transcript,,"Los Angeles, California",Sansei,291,0.999,3,0.1097
+ddr-densho-1000-522,ddr-densho-1000-522-22-transcript-1bd1693ca2,Douglas L. Aihara,Douglas L. Aihara Interview Segment 22 Transcript,,"Los Angeles, California",Sansei,248,0.998,2,0.1213
+ddr-densho-1000-522,ddr-densho-1000-522-14-transcript-20b43ac520,Douglas L. Aihara,Douglas L. Aihara Interview Segment 14 Transcript,,"Los Angeles, California",Sansei,473,0.999,3,0.1308
+ddr-densho-1000-522,ddr-densho-1000-522-9-transcript-227adcae5e,Douglas L. Aihara,Douglas L. Aihara Interview Segment 9 Transcript,,"Los Angeles, California",Sansei,262,0.99,0,0.1487
+ddr-densho-1000-522,ddr-densho-1000-522-1-transcript-2b3e276c51,Douglas L. Aihara,Douglas L. Aihara Interview Segment 1 Transcript,,"Los Angeles, California",Sansei,312,0.994,1,0.1572
+ddr-densho-1000-522,ddr-densho-1000-522-21-transcript-2c4295cd8f,Douglas L. Aihara,Douglas L. Aihara Interview Segment 21 Transcript,,"Los Angeles, California",Sansei,288,0.992,3,0.1368
+ddr-densho-1000-522,ddr-densho-1000-522-17-transcript-2fcad24b4b,Douglas L. Aihara,Douglas L. Aihara Interview Segment 17 Transcript,,"Los Angeles, California",Sansei,152,0.991,3,0.0887
+ddr-densho-1000-522,ddr-densho-1000-522-12-transcript-3935bca666,Douglas L. Aihara,Douglas L. Aihara Interview Segment 12 Transcript,,"Los Angeles, California",Sansei,149,0.891,0,0.1736
+ddr-densho-1000-522,ddr-densho-1000-522-20-transcript-3dcfd5b5ec,Douglas L. Aihara,Douglas L. Aihara Interview Segment 20 Transcript,,"Los Angeles, California",Sansei,115,0.992,2,0.1048
+ddr-densho-1000-522,ddr-densho-1000-522-3-transcript-4429196fbf,Douglas L. Aihara,Douglas L. Aihara Interview Segment 3 Transcript,,"Los Angeles, California",Sansei,122,0.979,1,0.1112
+ddr-densho-1000-522,ddr-densho-1000-522-4-transcript-44ed7bddbf,Douglas L. Aihara,Douglas L. Aihara Interview Segment 4 Transcript,,"Los Angeles, California",Sansei,106,-0.423,2,0.1265
+ddr-densho-1000-522,ddr-densho-1000-522-transcript-48c635502f,Douglas L. Aihara,Douglas L. Aihara Interview Transcript,,"Los Angeles, California",Sansei,5663,1.0,3,0.1891
+ddr-densho-1000-522,ddr-densho-1000-522-23-transcript-56423bb2a8,Douglas L. Aihara,Douglas L. Aihara Interview Segment 23 Transcript,,"Los Angeles, California",Sansei,104,0.993,3,0.0699
+ddr-densho-1000-522,ddr-densho-1000-522-24-transcript-577c46f3aa,Douglas L. Aihara,Douglas L. Aihara Interview Segment 24 Transcript,,"Los Angeles, California",Sansei,187,0.916,2,0.1323
+ddr-densho-1000-522,ddr-densho-1000-522-18-transcript-60bae8c795,Douglas L. Aihara,Douglas L. Aihara Interview Segment 18 Transcript,,"Los Angeles, California",Sansei,295,0.997,2,0.1222
+ddr-densho-1000-522,ddr-densho-1000-522-8-transcript-6207f25f36,Douglas L. Aihara,Douglas L. Aihara Interview Segment 8 Transcript,,"Los Angeles, California",Sansei,270,0.999,0,0.0684
+ddr-densho-1000-522,ddr-densho-1000-522-2-transcript-6a9ad88901,Douglas L. Aihara,Douglas L. Aihara Interview Segment 2 Transcript,,"Los Angeles, California",Sansei,112,0.985,1,0.1155
+ddr-densho-1000-522,ddr-densho-1000-522-15-transcript-88053d215c,Douglas L. Aihara,Douglas L. Aihara Interview Segment 15 Transcript,,"Los Angeles, California",Sansei,258,0.998,2,0.1168
+ddr-densho-1000-522,ddr-densho-1000-522-11-transcript-a045d8ae20,Douglas L. Aihara,Douglas L. Aihara Interview Segment 11 Transcript,,"Los Angeles, California",Sansei,240,0.995,0,0.2481
+ddr-densho-1000-522,ddr-densho-1000-522-13-transcript-a512dcb321,Douglas L. Aihara,Douglas L. Aihara Interview Segment 13 Transcript,,"Los Angeles, California",Sansei,232,0.983,2,0.1017
+ddr-densho-1000-522,ddr-densho-1000-522-19-transcript-ba6e347b3b,Douglas L. Aihara,Douglas L. Aihara Interview Segment 19 Transcript,,"Los Angeles, California",Sansei,253,0.982,2,0.1248
+ddr-densho-1000-522,ddr-densho-1000-522-5-transcript-ba8eb545bd,Douglas L. Aihara,Douglas L. Aihara Interview Segment 5 Transcript,,"Los Angeles, California",Sansei,283,0.998,2,0.1143
+ddr-densho-1000-522,ddr-densho-1000-522-7-transcript-c95b6eabdc,Douglas L. Aihara,Douglas L. Aihara Interview Segment 7 Transcript,,"Los Angeles, California",Sansei,185,0.996,3,0.1631
+ddr-densho-1000-522,ddr-densho-1000-522-16-transcript-ced36bb49c,Douglas L. Aihara,Douglas L. Aihara Interview Segment 16 Transcript,,"Los Angeles, California",Sansei,373,0.996,2,0.1264
+ddr-densho-1004-12,ddr-densho-1004-12-transcript-0c35fc6ca4,Harry Akune,Harry Akune Interview Transcript,2000,"Los Angeles, California",Nisei,1583,1.0,2,0.4493
+ddr-densho-1004-12,ddr-densho-1004-12-6-transcript-461f8215dc,Harry Akune,Harry Akune Interview Segment 6 Transcript,2000,"Los Angeles, California",Nisei,221,0.997,2,0.2415
+ddr-densho-1004-12,ddr-densho-1004-12-2-transcript-49ac7e8202,Harry Akune,Harry Akune Interview Segment 2 Transcript,2000,"Los Angeles, California",Nisei,202,-0.898,2,0.1723
+ddr-densho-1004-12,ddr-densho-1004-12-5-transcript-8c9c610c53,Harry Akune,Harry Akune Interview Segment 5 Transcript,2000,"Los Angeles, California",Nisei,169,0.981,2,0.2598
+ddr-densho-1004-12,ddr-densho-1004-12-3-transcript-b03f317dcb,Harry Akune,Harry Akune Interview Segment 3 Transcript,2000,"Los Angeles, California",Nisei,417,0.999,2,0.2633
+ddr-densho-1004-12,ddr-densho-1004-12-4-transcript-eb20065984,Harry Akune,Harry Akune Interview Segment 4 Transcript,2000,"Los Angeles, California",Nisei,141,0.954,2,0.1745
+ddr-densho-1004-12,ddr-densho-1004-12-1-transcript-f95250b7b2,Harry Akune,Harry Akune Interview Segment 1 Transcript,2000,"Los Angeles, California",Nisei,433,0.995,2,0.3018
+ddr-densho-1004-13,ddr-densho-1004-13-2-transcript-27cb01013f,Kenjiro Akune,Kenjiro Akune Interview Segment 2 Transcript,2000,"Los Angeles, California",Nisei,221,0.683,2,0.1667
+ddr-densho-1004-13,ddr-densho-1004-13-6-transcript-35eedf93c7,Kenjiro Akune,Kenjiro Akune Interview Segment 6 Transcript,2000,"Los Angeles, California",Nisei,210,-0.978,2,0.2013
+ddr-densho-1004-13,ddr-densho-1004-13-1-transcript-58c9f2d04e,Kenjiro Akune,Kenjiro Akune Interview Segment 1 Transcript,2000,"Los Angeles, California",Nisei,133,0.485,2,0.1449
+ddr-densho-1004-13,ddr-densho-1004-13-5-transcript-71dcb3ca00,Kenjiro Akune,Kenjiro Akune Interview Segment 5 Transcript,2000,"Los Angeles, California",Nisei,612,0.975,2,0.3654
+ddr-densho-1004-13,ddr-densho-1004-13-3-transcript-a092ebe5f2,Kenjiro Akune,Kenjiro Akune Interview Segment 3 Transcript,2000,"Los Angeles, California",Nisei,639,-0.995,2,0.3083
+ddr-densho-1004-13,ddr-densho-1004-13-transcript-a3679e7cf1,Kenjiro Akune,Kenjiro Akune Interview Transcript,2000,"Los Angeles, California",Nisei,2424,-0.966,2,0.4969
+ddr-densho-1004-13,ddr-densho-1004-13-7-transcript-ba067fe6f2,Kenjiro Akune,Kenjiro Akune Interview Segment 7 Transcript,2000,"Los Angeles, California",Nisei,405,-0.994,2,0.3487
+ddr-densho-1004-13,ddr-densho-1004-13-4-transcript-ef382f44fa,Kenjiro Akune,Kenjiro Akune Interview Segment 4 Transcript,2000,"Los Angeles, California",Nisei,204,0.994,2,0.3105
+ddr-densho-1004-14,ddr-densho-1004-14-5-transcript-0131c52f62,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 5 Transcript,2000,"Los Angeles, California",Nisei,323,0.998,2,0.2854
+ddr-densho-1004-14,ddr-densho-1004-14-8-transcript-2e04f75c3b,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 8 Transcript,2000,"Los Angeles, California",Nisei,179,0.962,2,0.2128
+ddr-densho-1004-14,ddr-densho-1004-14-3-transcript-5e51fc8b03,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 3 Transcript,2000,"Los Angeles, California",Nisei,128,-0.833,2,0.2623
+ddr-densho-1004-14,ddr-densho-1004-14-transcript-616675575e,Harry Akune,Harry Akune - Kenjiro Akune Interview Transcript,2000,"Los Angeles, California",Nisei,2055,1.0,2,0.4215
+ddr-densho-1004-14,ddr-densho-1004-14-4-transcript-7ee1a48522,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 4 Transcript,2000,"Los Angeles, California",Nisei,147,0.99,1,0.1473
+ddr-densho-1004-14,ddr-densho-1004-14-6-transcript-bc58100885,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 6 Transcript,2000,"Los Angeles, California",Nisei,430,0.997,2,0.1477
+ddr-densho-1004-14,ddr-densho-1004-14-1-transcript-db91f4a8a7,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 1 Transcript,2000,"Los Angeles, California",Nisei,294,0.985,2,0.3018
+ddr-densho-1004-14,ddr-densho-1004-14-2-transcript-dd9e376254,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 2 Transcript,2000,"Los Angeles, California",Nisei,208,0.991,2,0.1619
+ddr-densho-1004-14,ddr-densho-1004-14-7-transcript-fcd2040dde,Harry Akune,Harry Akune - Kenjiro Akune Interview Segment 7 Transcript,2000,"Los Angeles, California",Nisei,346,0.935,2,0.1957
+ddr-densho-1013-2,ddr-densho-1013-2-22-transcript-055330b815,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 22 Transcript,2008,"Salt Lake City, Utah",Nisei,197,0.976,4,0.1783
+ddr-densho-1013-2,ddr-densho-1013-2-6-transcript-0981bc6278,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 6 Transcript,2008,"Salt Lake City, Utah",Nisei,186,0.996,0,0.0724
+ddr-densho-1013-2,ddr-densho-1013-2-13-transcript-1b35a86ffb,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 13 Transcript,2008,"Salt Lake City, Utah",Nisei,305,0.771,1,0.0887
+ddr-densho-1013-2,ddr-densho-1013-2-14-transcript-1f2f657f5a,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 14 Transcript,2008,"Salt Lake City, Utah",Nisei,266,0.967,3,0.1389
+ddr-densho-1013-2,ddr-densho-1013-2-17-transcript-2b3c79b6fc,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 17 Transcript,2008,"Salt Lake City, Utah",Nisei,333,0.996,4,0.1551
+ddr-densho-1013-2,ddr-densho-1013-2-1-transcript-2cbcbc52ff,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 1 Transcript,2008,"Salt Lake City, Utah",Nisei,236,0.998,1,0.204
+ddr-densho-1013-2,ddr-densho-1013-2-10-transcript-3cc0738ab4,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 10 Transcript,2008,"Salt Lake City, Utah",Nisei,344,0.967,2,0.0807
+ddr-densho-1013-2,ddr-densho-1013-2-7-transcript-4a06225411,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 7 Transcript,2008,"Salt Lake City, Utah",Nisei,188,0.996,0,0.2722
+ddr-densho-1013-2,ddr-densho-1013-2-21-transcript-55b78db22d,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 21 Transcript,2008,"Salt Lake City, Utah",Nisei,252,0.21,2,0.091
+ddr-densho-1013-2,ddr-densho-1013-2-12-transcript-59a1355bab,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 12 Transcript,2008,"Salt Lake City, Utah",Nisei,245,-0.897,3,0.1224
+ddr-densho-1013-2,ddr-densho-1013-2-8-transcript-633f316da8,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 8 Transcript,2008,"Salt Lake City, Utah",Nisei,317,0.837,0,0.074
+ddr-densho-1013-2,ddr-densho-1013-2-11-transcript-63e72f5776,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 11 Transcript,2008,"Salt Lake City, Utah",Nisei,307,0.98,4,0.0994
+ddr-densho-1013-2,ddr-densho-1013-2-25-transcript-6438d7d36c,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 25 Transcript,2008,"Salt Lake City, Utah",Nisei,237,0.995,5,0.311
+ddr-densho-1013-2,ddr-densho-1013-2-16-transcript-67ba02b82a,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 16 Transcript,2008,"Salt Lake City, Utah",Nisei,194,0.973,2,0.1407
+ddr-densho-1013-2,ddr-densho-1013-2-9-transcript-6d1122fe63,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 9 Transcript,2008,"Salt Lake City, Utah",Nisei,254,0.992,3,0.0675
+ddr-densho-1013-2,ddr-densho-1013-2-4-transcript-79816dbc08,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 4 Transcript,2008,"Salt Lake City, Utah",Nisei,158,0.938,0,0.3206
+ddr-densho-1013-2,ddr-densho-1013-2-transcript-7e95fd2786,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Transcript,2008,"Salt Lake City, Utah",Nisei,7447,1.0,2,0.1605
+ddr-densho-1013-2,ddr-densho-1013-2-5-transcript-85568a06c2,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 5 Transcript,2008,"Salt Lake City, Utah",Nisei,336,0.995,0,0.1052
+ddr-densho-1013-2,ddr-densho-1013-2-20-transcript-9f76407872,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 20 Transcript,2008,"Salt Lake City, Utah",Nisei,309,0.925,2,0.1033
+ddr-densho-1013-2,ddr-densho-1013-2-3-transcript-a174df4871,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 3 Transcript,2008,"Salt Lake City, Utah",Nisei,373,0.999,1,0.1729
+ddr-densho-1013-2,ddr-densho-1013-2-23-transcript-a282382e5f,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 23 Transcript,2008,"Salt Lake City, Utah",Nisei,364,-0.971,2,0.1059
+ddr-densho-1013-2,ddr-densho-1013-2-15-transcript-b5851a1b31,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 15 Transcript,2008,"Salt Lake City, Utah",Nisei,221,0.994,4,0.1854
+ddr-densho-1013-2,ddr-densho-1013-2-24-transcript-b7c5022b53,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 24 Transcript,2008,"Salt Lake City, Utah",Nisei,486,-0.998,2,0.1614
+ddr-densho-1013-2,ddr-densho-1013-2-27-transcript-bc7de4914c,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 27 Transcript,2008,"Salt Lake City, Utah",Nisei,229,0.999,5,0.2441
+ddr-densho-1013-2,ddr-densho-1013-2-18-transcript-bce19a3cca,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 18 Transcript,2008,"Salt Lake City, Utah",Nisei,362,-0.268,2,0.1262
+ddr-densho-1013-2,ddr-densho-1013-2-2-transcript-c6487429b5,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 2 Transcript,2008,"Salt Lake City, Utah",Nisei,289,0.995,1,0.1212
+ddr-densho-1013-2,ddr-densho-1013-2-19-transcript-e02cfc37a6,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 19 Transcript,2008,"Salt Lake City, Utah",Nisei,191,0.995,2,0.0808
+ddr-densho-1013-2,ddr-densho-1013-2-26-transcript-ecf4f6c0b6,Nelson Takeo Akagi,Nelson Takeo Akagi Interview Segment 26 Transcript,2008,"Salt Lake City, Utah",Nisei,268,0.991,5,0.3362
+ddr-manz-1-112,ddr-manz-1-112-11-transcript-0b6c0e5693,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 11 Transcript,2011,"Culver City, California",Nisei,126,0.95,4,0.2657
+ddr-manz-1-112,ddr-manz-1-112-transcript-3d83b07024,Toshiko Aiboshi,Toshiko Aiboshi Interview Transcript,2011,"Culver City, California",Nisei,4813,1.0,4,0.4294
+ddr-manz-1-112,ddr-manz-1-112-10-transcript-4379b173c7,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 10 Transcript,2011,"Culver City, California",Nisei,253,-0.987,4,0.2549
+ddr-manz-1-112,ddr-manz-1-112-7-transcript-5bb692bcfd,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 7 Transcript,2011,"Culver City, California",Nisei,216,-0.971,4,0.2897
+ddr-manz-1-112,ddr-manz-1-112-1-transcript-67be4fbd04,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 1 Transcript,2011,"Culver City, California",Nisei,486,0.981,5,0.234
+ddr-manz-1-112,ddr-manz-1-112-15-transcript-6bef149ba0,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 15 Transcript,2011,"Culver City, California",Nisei,373,0.993,4,0.1806
+ddr-manz-1-112,ddr-manz-1-112-6-transcript-6fee2faa20,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 6 Transcript,2011,"Culver City, California",Nisei,316,0.986,4,0.1895
+ddr-manz-1-112,ddr-manz-1-112-14-transcript-80797cf25c,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 14 Transcript,2011,"Culver City, California",Nisei,248,0.996,4,0.3145
+ddr-manz-1-112,ddr-manz-1-112-2-transcript-8691d39c54,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 2 Transcript,2011,"Culver City, California",Nisei,466,0.99,4,0.1339
+ddr-manz-1-112,ddr-manz-1-112-12-transcript-c0af66194e,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 12 Transcript,2011,"Culver City, California",Nisei,362,0.993,4,0.3155
+ddr-manz-1-112,ddr-manz-1-112-13-transcript-d2b7aaa327,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 13 Transcript,2011,"Culver City, California",Nisei,193,-0.384,4,0.2774
+ddr-manz-1-112,ddr-manz-1-112-8-transcript-eaf89268af,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 8 Transcript,2011,"Culver City, California",Nisei,628,1.0,4,0.2315
+ddr-manz-1-112,ddr-manz-1-112-9-transcript-eb1390b68d,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 9 Transcript,2011,"Culver City, California",Nisei,362,0.996,4,0.2522
+ddr-manz-1-112,ddr-manz-1-112-4-transcript-eb2b1bdb3c,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 4 Transcript,2011,"Culver City, California",Nisei,474,0.925,4,0.2861
+ddr-manz-1-112,ddr-manz-1-112-5-transcript-f76ed2ff07,Toshiko Aiboshi,Toshiko Aiboshi Interview Segment 5 Transcript,2011,"Culver City, California",Nisei,251,0.982,4,0.2351
+ddr-one-7-48,ddr-one-7-48-17-transcript-06abeb14a3,Sab Akiyama,Sab Akiyama Interview Segment 17 Transcript,2013,"Hood River, Oregon",Nisei,255,0.993,2,0.1154
+ddr-one-7-48,ddr-one-7-48-3-transcript-09fdd20e98,Sab Akiyama,Sab Akiyama Interview Segment 3 Transcript,2013,"Hood River, Oregon",Nisei,347,0.995,1,0.2152
+ddr-one-7-48,ddr-one-7-48-15-transcript-12b2e3e6ab,Sab Akiyama,Sab Akiyama Interview Segment 15 Transcript,2013,"Hood River, Oregon",Nisei,170,0.953,2,0.1689
+ddr-one-7-48,ddr-one-7-48-1-transcript-27be847207,Sab Akiyama,Sab Akiyama Interview Segment 1 Transcript,2013,"Hood River, Oregon",Nisei,236,0.985,1,0.2936
+ddr-one-7-48,ddr-one-7-48-2-transcript-3c4267a12a,Sab Akiyama,Sab Akiyama Interview Segment 2 Transcript,2013,"Hood River, Oregon",Nisei,176,0.995,1,0.2146
+ddr-one-7-48,ddr-one-7-48-7-transcript-3c83d2ad5c,Sab Akiyama,Sab Akiyama Interview Segment 7 Transcript,2013,"Hood River, Oregon",Nisei,299,0.998,0,0.1551
+ddr-one-7-48,ddr-one-7-48-12-transcript-468e83e726,Sab Akiyama,Sab Akiyama Interview Segment 12 Transcript,2013,"Hood River, Oregon",Nisei,168,0.775,4,0.2127
+ddr-one-7-48,ddr-one-7-48-13-transcript-5707d05f2c,Sab Akiyama,Sab Akiyama Interview Segment 13 Transcript,2013,"Hood River, Oregon",Nisei,150,0.985,4,0.2819
+ddr-one-7-48,ddr-one-7-48-11-transcript-5717e05097,Sab Akiyama,Sab Akiyama Interview Segment 11 Transcript,2013,"Hood River, Oregon",Nisei,360,0.998,4,0.1845
+ddr-one-7-48,ddr-one-7-48-8-transcript-6b7cdab821,Sab Akiyama,Sab Akiyama Interview Segment 8 Transcript,2013,"Hood River, Oregon",Nisei,198,-0.419,2,0.0802
+ddr-one-7-48,ddr-one-7-48-9-transcript-7a18ad28fd,Sab Akiyama,Sab Akiyama Interview Segment 9 Transcript,2013,"Hood River, Oregon",Nisei,399,0.991,1,0.1218
+ddr-one-7-48,ddr-one-7-48-10-transcript-826b21d70c,Sab Akiyama,Sab Akiyama Interview Segment 10 Transcript,2013,"Hood River, Oregon",Nisei,150,0.981,4,0.0736
+ddr-one-7-48,ddr-one-7-48-5-transcript-992ea87c06,Sab Akiyama,Sab Akiyama Interview Segment 5 Transcript,2013,"Hood River, Oregon",Nisei,253,0.999,0,0.2755
+ddr-one-7-48,ddr-one-7-48-14-transcript-bceeadd3f7,Sab Akiyama,Sab Akiyama Interview Segment 14 Transcript,2013,"Hood River, Oregon",Nisei,262,0.991,4,0.2421
+ddr-one-7-48,ddr-one-7-48-4-transcript-cadffc63d0,Sab Akiyama,Sab Akiyama Interview Segment 4 Transcript,2013,"Hood River, Oregon",Nisei,154,0.977,1,0.1465
+ddr-one-7-48,ddr-one-7-48-6-transcript-d09b0614ae,Sab Akiyama,Sab Akiyama Interview Segment 6 Transcript,2013,"Hood River, Oregon",Nisei,245,0.996,0,0.0901
+ddr-one-7-48,ddr-one-7-48-16-transcript-d98ab84ea6,Sab Akiyama,Sab Akiyama Interview Segment 16 Transcript,2013,"Hood River, Oregon",Nisei,378,0.996,2,0.1353
+ddr-one-7-48,ddr-one-7-48-18-transcript-dc4f0fbc21,Sab Akiyama,Sab Akiyama Interview Segment 18 Transcript,2013,"Hood River, Oregon",Nisei,286,0.997,2,0.1728
+ddr-one-7-48,ddr-one-7-48-transcript-e2b7a3a151,Sab Akiyama,Sab Akiyama Interview Transcript,2013,"Hood River, Oregon",Nisei,4486,1.0,1,0.1803

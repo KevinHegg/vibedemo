@@ -1,0 +1,4 @@
+pypdf
+scikit-learn
+vaderSentiment
+

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Oral History NLP Demo | Densho-inspired transcript analysis</title>
+  <link rel="stylesheet" href="./oralhistorynlp.css">
+</head>
+<body>
+  <main class="page" id="app">
+    <section class="hero">
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow">Static Oral History NLP Demo</p>
+          <h1>Patterns in public Densho oral history transcripts.</h1>
+          <p class="lede">
+            This page is an honest, static demonstration inspired by the claim that large-scale NLP
+            over Densho oral history transcripts can surface patterns in location, topics, and sentiment.
+            It is <strong>not presented as an exact replication of Chen et al.</strong> unless the corpus
+            size and methods happen to match exactly.
+          </p>
+          <p class="subtle">
+            The visualizations below use a reproducible pipeline over publicly accessible Densho interview
+            metadata and linked transcript files. In practice, Densho often exposes public transcripts as
+            segmented HTML or PDF transcript files, so this demo reports the exact number of usable
+            transcript segments and the number of interviews they came from.
+          </p>
+          <p class="subtle" id="corpus-note"></p>
+          <div class="stat-grid" id="stat-grid"></div>
+          <div class="hero-links">
+            <a class="link-chip" href="./data/oralhistorynlp/sources_manifest.csv">Download source manifest</a>
+            <a class="link-chip" href="./README_oralhistorynlp.md">Read methods and limitations</a>
+            <a class="link-chip" href="./index.html">Back to landing page</a>
+          </div>
+        </div>
+        <aside class="hero-side">
+          <h2>What this demo shows</h2>
+          <ul>
+            <li>Location patterns from interview metadata.</li>
+            <li>Topic clusters discovered from transcript segments.</li>
+            <li>Simple sentiment as a rough transcript-segment signal.</li>
+            <li>A transparent pipeline with precomputed static data files.</li>
+          </ul>
+          <p class="footer-note">
+            Local run: <code>python -m http.server 8000</code>
+          </p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Corpus Overview</p>
+          <h2>Public interviews, precomputed for a static page</h2>
+        </div>
+      </div>
+      <p class="method-copy">
+        The corpus overview cards above summarize the exact build used here. The processed data files live in
+        <code>data/oralhistorynlp/</code>, and the manifest links back to the specific public Densho interview
+        pages and transcript URLs used during collection.
+      </p>
+    </section>
+
+    <section class="chart-grid">
+      <article class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Location Patterns</p>
+          <h2>Where these interviews were conducted</h2>
+          </div>
+        </div>
+        <p class="subtle">A ranked bar chart is more honest here than a decorative map because the location field comes from metadata strings rather than geocoded archival coordinates, and multiple transcript segments can belong to the same interview location.</p>
+        <div id="location-chart" class="chart-box"></div>
+      </article>
+
+      <article class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Sentiment</p>
+          <h2>Transcript-segment sentiment distribution</h2>
+          </div>
+        </div>
+        <p class="subtle">These scores are VADER compound values across usable transcript segments. They are better read as coarse text signals than as claims about lived experience.</p>
+        <div id="sentiment-chart" class="chart-box"></div>
+      </article>
+    </section>
+
+    <section class="detail-grid">
+      <article class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Topics</p>
+          <h2>Discovered themes and representative transcript segments</h2>
+          </div>
+        </div>
+        <div id="topic-list" class="topic-list"></div>
+      </article>
+
+      <article class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Topic Detail</p>
+            <h2>Representative excerpts</h2>
+          </div>
+        </div>
+        <div id="topic-detail" class="topic-detail"></div>
+      </article>
+    </section>
+
+    <section class="chart-grid">
+      <article class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Additional View</p>
+          <h2>Transcript segments by interview year</h2>
+          </div>
+        </div>
+        <div id="timeline-chart" class="chart-box"></div>
+      </article>
+
+      <article class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Additional View</p>
+            <h2>Transcript length vs sentiment</h2>
+          </div>
+        </div>
+        <div id="scatter-chart" class="chart-box"></div>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Method and Limitations</p>
+          <h2>What this build does, and what it does not claim</h2>
+        </div>
+      </div>
+      <ul class="note-list" id="method-notes"></ul>
+        <p class="method-copy">
+        Oral histories are complex, contextual narratives. Topic models compress that richness into a small
+        number of keyword bundles, and sentiment tools can over-read quoted speech, trauma, irony, or historical
+        framing. This demo is useful for pattern-finding and classroom discussion, not for replacing careful
+        reading of the interviews themselves.
+      </p>
+    </section>
+  </main>
+
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <script src="./data/oralhistorynlp/dashboard-data.js"></script>
+  <script src="./oralhistorynlp.js"></script>
+</body>
+</html>
