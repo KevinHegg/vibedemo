@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Influenza Demo Test | Chronicling America</title>
+  <link rel="stylesheet" href="assets/css/index-test.css">
+</head>
+<body>
+  <div class="page">
+    <section class="hero">
+      <p class="eyebrow">Prompt Test Build</p>
+      <h1>Influenza across the American newspaper record.</h1>
+      <p class="lede">
+        This test page visualizes Chronicling America counts for the search term
+        <strong>"influenza"</strong> from 1910 through 1925, pairing a national time
+        series with a state-by-state snapshot for 1918.
+      </p>
+      <div class="status">
+        <div class="pill">Term: influenza</div>
+        <div class="pill">Years: 1910 to 1925</div>
+        <div class="pill">Map year: 1918</div>
+        <div class="pill">Source: Library of Congress loc.gov API</div>
+      </div>
+      <p class="meta">
+        The requested <code>front_pages_only=true</code> flag is preserved in the
+        dataset metadata, while the current collection count endpoint appears to honor
+        date and state facet filters but not that front-page toggle.
+      </p>
+    </section>
+
+    <section class="grid chart-grid">
+      <article class="card">
+        <h2>National Time Series</h2>
+        <p class="subhead">
+          Yearly hit counts pulled from the collection endpoint using
+          <code>at=pagination</code> to read the total result count.
+        </p>
+        <div id="line-chart" class="viz"></div>
+      </article>
+
+      <article class="card">
+        <h2>1918 State Snapshot</h2>
+        <p class="subhead">
+          Choropleth counts by state for the same search term in the selected outbreak year.
+        </p>
+        <div id="choropleth-map" class="viz"></div>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="card footnote">
+        <h2>Notes</h2>
+        <p>
+          The demo loads precomputed values from <code>data.json</code>. Regenerate the
+          dataset with <code>python3 scripts/fetch_counts.py</code>.
+        </p>
+        <p>
+          Keep requests under the requested pace by leaving the built-in throttling in place.
+        </p>
+      </article>
+    </section>
+  </div>
+
+  <!-- Local run: python -m http.server 8000 -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script src="map.js" defer></script>
+</body>
+</html>

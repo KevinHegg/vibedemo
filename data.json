@@ -1,0 +1,162 @@
+{
+  "term": "influenza",
+  "year_range": [
+    1910,
+    1925
+  ],
+  "map_year": 1918,
+  "query_params": {
+    "requested": {
+      "q": "influenza",
+      "dates": "YYYY/YYYY",
+      "front_pages_only": "true",
+      "location_state": "<state name>",
+      "at": "pagination",
+      "fo": "json",
+      "c": "1"
+    },
+    "effective": {
+      "national": {
+        "fo": "json",
+        "c": "1",
+        "at": "pagination",
+        "q": "influenza",
+        "dates": "YYYY/YYYY",
+        "front_pages_only": "true"
+      },
+      "by_state": {
+        "fo": "json",
+        "c": "1",
+        "at": "pagination",
+        "q": "influenza",
+        "dates": "1918/1918",
+        "front_pages_only": "true",
+        "location_state": "<state name>",
+        "fa": "location:<state name>"
+      }
+    },
+    "notes": [
+      "Counts come from pagination.of on the loc.gov collection endpoint.",
+      "The collection endpoint currently appears to ignore front_pages_only and direct location_state parameters for count changes.",
+      "State snapshot counts therefore rely on the supported fa=location:<state name> facet filter while preserving the requested parameters in metadata."
+    ]
+  },
+  "national": [
+    {
+      "year": 1910,
+      "count": 3851
+    },
+    {
+      "year": 1911,
+      "count": 1945
+    },
+    {
+      "year": 1912,
+      "count": 1751
+    },
+    {
+      "year": 1913,
+      "count": 2100
+    },
+    {
+      "year": 1914,
+      "count": 1984
+    },
+    {
+      "year": 1915,
+      "count": 2216
+    },
+    {
+      "year": 1916,
+      "count": 3078
+    },
+    {
+      "year": 1917,
+      "count": 1748
+    },
+    {
+      "year": 1918,
+      "count": 52852
+    },
+    {
+      "year": 1919,
+      "count": 50118
+    },
+    {
+      "year": 1920,
+      "count": 32852
+    },
+    {
+      "year": 1921,
+      "count": 8181
+    },
+    {
+      "year": 1922,
+      "count": 11600
+    },
+    {
+      "year": 1923,
+      "count": 6527
+    },
+    {
+      "year": 1924,
+      "count": 3977
+    },
+    {
+      "year": 1925,
+      "count": 3699
+    }
+  ],
+  "by_state": {
+    "AL": 1239,
+    "AK": 913,
+    "AZ": 2024,
+    "AR": 1708,
+    "CA": 433,
+    "CO": 979,
+    "CT": 1693,
+    "DE": 1370,
+    "FL": 819,
+    "GA": 913,
+    "HI": 31,
+    "ID": 1047,
+    "IL": 1263,
+    "IN": 1477,
+    "IA": 1730,
+    "KS": 814,
+    "KY": 1006,
+    "LA": 596,
+    "ME": 1016,
+    "MD": 532,
+    "MA": 145,
+    "MI": 668,
+    "MN": 1583,
+    "MS": 512,
+    "MO": 1065,
+    "MT": 243,
+    "NE": 1575,
+    "NV": 519,
+    "NH": 75,
+    "NJ": 526,
+    "NM": 1008,
+    "NY": 1421,
+    "NC": 958,
+    "ND": 1855,
+    "OH": 1179,
+    "OK": 1145,
+    "OR": 1111,
+    "PA": 1330,
+    "RI": 1,
+    "SC": 801,
+    "SD": 745,
+    "TN": 1671,
+    "TX": 1322,
+    "UT": 759,
+    "VT": 1661,
+    "VA": 1519,
+    "WA": 3202,
+    "WV": 1905,
+    "WI": 1619,
+    "WY": 999
+  }
+}
